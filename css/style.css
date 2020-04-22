@@ -771,3 +771,105 @@
     max-width: 1800px; /* corresponds to max height of 450px */
     margin: 0 auto; height:350px;
 }
+
+
+/*---------pcss------------*/
+
+.list_li
+{
+	position: relative;
+	transition: 1.5s all;
+}
+.list_cat
+{
+	position: absolute;
+    top: 50px;
+    width: 295px;
+    height: auto;
+    z-index: 10;
+    border-radius: 10px;
+    left: 21px;
+    background-color: #1b1b1b;
+    color: #fff;
+    font-weight: 500;
+    display: none;
+    transition: 1.5s all;
+}
+.list_cat li
+{
+	float: unset !important;
+    padding: 5px 20px !important;
+    text-align: left;
+}
+.list_li:hover .list_cat
+{
+	display: block;
+	transition: 1.5s all;
+}
+.list_cat li a
+{
+	color: #b5b5b5;
+	cursor: pointer;
+}
+.list_cat li a:hover
+{
+	color: #fff;
+}
+.list_cat ul
+{
+	padding: 15px 0px;
+}
+.bx1
+{
+	width: 33%;
+	display: inline-block;
+    vertical-align: top;
+    margin-top: 25px;
+}
+.slick-arrow
+{
+	background-color: #000;
+    color: #fff;
+     width: 40px;
+    height: 40px;
+    text-align: center;
+    padding: 19px 0px;
+}
+.slick-prev:hover, .slick-prev:focus, .slick-next:hover, .slick-next:focus {
+    color: #fff;
+    outline: none;
+    background: #000;
+}
+.slick-next:before {
+    line-height: 0;
+}
+.slick-prev:before {
+    line-height: 0;
+}
+.slick-prev {
+    left: -45px;
+    top: 44%;
+}
+.slick-next {
+    right: -45px;
+    top: 44%;
+}
+
+
+@media(min-width: 320px) and (max-width: 767px)
+{
+.bx1
+{
+	width: 100%;
+	display: block;
+    vertical-align: top;
+    margin-top: 25px;
+}
+.tabres
+{
+	height: auto !important;
+}
+
+}
+
+/*-------------------------*/
