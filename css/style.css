@@ -854,6 +854,16 @@
     right: -45px;
     top: 44%;
 }
+.landscape img
+{
+	margin: 0 auto;
+	width: 440px;
+}
+.slider-nav img
+{
+	width: 190px;
+	margin: 0 auto;
+}
 
 
 @media(min-width: 320px) and (max-width: 767px)
@@ -868,6 +878,19 @@
 .tabres
 {
 	height: auto !important;
+}
+.slick-arrow {
+    width: 30px;
+    height: 30px;
+    padding: 14px 0px;
+}
+.slick-next {
+    right: -15px;
+    z-index: 1;
+}
+.slick-prev {
+    left: -15px;
+    z-index: 1;
 }
 
 }
