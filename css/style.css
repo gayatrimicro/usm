@@ -864,6 +864,11 @@
 	width: 190px;
 	margin: 0 auto;
 }
+.slider-nav
+{
+	width: 70%;
+    margin: 0 auto;
+}
 
 
 @media(min-width: 320px) and (max-width: 767px)
