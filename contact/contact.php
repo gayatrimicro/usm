@@ -7,7 +7,8 @@ if(isset($_GET['mail'])){
 		$phone=$_GET['phone'];
 		$enq=$_GET['message'];
 		$subject = "Contact Form Union Special Medway";
-		$to = 'ram@gmicro.us,sales@unionspecialmedway.com';
+		// $to = 'ram@gmicro.us,sales@unionspecialmedway.com';
+		$to = 'content@gmicro.us,seo@gmicro.us';
 		$message = "\n
 		Name : $fullname \n
 		Address : $address \n
