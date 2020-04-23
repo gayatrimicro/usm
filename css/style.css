@@ -879,6 +879,7 @@
     background-color: #1b1b1b;
     display: none;
     z-index: 10;
+    border-radius: 10px;
 }
 .lis_li_li:hover .list_subcat
 {
