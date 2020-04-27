@@ -17,6 +17,7 @@
 	<link rel="stylesheet" href="../css/style.css">
     <link rel="stylesheet" href="../css/grid.css">
     <link rel="stylesheet" href="../webfonts/ss-social.css">
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 	
      <!--[if IE]>
         <style>
@@ -119,7 +120,63 @@ h2.tisa1, h3.tisa1 {
             </div>
             <div id="nav-wrapper">
             	<ul id="nav">
-                   <li><a href="../products">Products</a></li>
+                   <li class="list_li">
+            <a href="#">Products</a> <i class="fa fa-angle-down" aria-hidden="true"></i>
+            <div class="list_cat">
+                <ul>
+                    <li class="lis_li_li"><a href="#">Bagging Systems</a> <i class="fa fa-angle-right" aria-hidden="true"></i>
+                        <div class="list_subcat rig_sid">
+                            <ul>
+                                <li><a href="../products/bagging.html">OPEN MOUTH</a></li>
+                                <li><a href="../products/bagging.html">AUTOMATIC BAGGING LINES</a></li>
+                                <li><a href="../products/bagging.html">IN PROCESS WEIGHING SYSTEM</a></li>
+                                <li><a href="../products/bagging.html">VALVE (TYPE) BAGGING SYSTEMS</a></li>
+                                <li><a href="../products/bagging.html">FIBC (BULK BAG FILLING SYSTEM)</a></li>
+                                <li><a href="../products/bagging.html">VACCUM PACKING SYSTEMS</a></li>
+                                <li><a href="../products/bagging.html">JUMBO BIG BAG FILLING</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li><a href="#">TRANSPORATBLE BAGGING SYSTEMS</a></li>
+                    <li><a href="bag-making.html">BAG MAKING MACHINES</a></li>                                
+                    <li class="lis_li_li"><a href="#">BAG CLOSING SYSTEM</a> <i class="fa fa-angle-right" aria-hidden="true"></i>
+                        <div class="list_subcat rig_sid2">
+                            <ul>
+                                <li><a href="../products/bag-closing.html">Bag Closing Machines</a></li>
+                                <li><a href="../products/portable-bag-closing.html">Portable Bag Closing Machines</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li><a href="#">VACCUM PACKING SYSTEMS</a></li>
+                    <li class="lis_li_li"><a href="#">FFS (POUCH PACKING MACHINE)</a> <i class="fa fa-angle-right" aria-hidden="true"></i>
+                        <div class="list_subcat rig_sid3">
+                            <ul>
+                                <li><a href="#">WEIGHERS</a></li>
+                                <li><a href="#">FFS</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li class="lis_li_li"><a href="#">CONVEYOR & ACC</a> <i class="fa fa-angle-right" aria-hidden="true"></i>
+                        <div class="list_subcat rig_sid4">
+                            <ul>
+                                <li><a href="../products/conveyor.html">BELT CONVEYOR</a></li>
+                                <li><a href="../products/conveyor.html">SLAT CONVEYOR</a></li>
+                                <li><a href="../products/conveyor.html">LORRY LOADERS</a></li>
+                                <li><a href="../products/conveyor.html">INCLINED BELT CONVEYOR</a></li>
+                                <li><a href="../products/conveyor.html">TELESCOPIC CONVEYOR</a></li>
+                                <li><a href="../products/conveyor.html">SCREW CONVEYOR</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li><a href="#">LIQUID FILLING</a></li>
+                    <li><a href="#">METAL DETECTORS</a></li>
+                    <li><a href="#">DUST COLLECTORS</a></li>
+                    <li><a href="#">THREAD</a></li>
+                    <li><a href="#">FUMIGATION SHEET</a></li>
+                    <li><a href="#">MANGUNESE RAIL</a></li>
+                </ul>
+            </div>
+        </li>
                     <li><a href="../system_integration.html">System Integration</a></li>
                     <li><a href="../spares-services.html">Spares & Service</a></li>
                     <li><a href="../contact">Contact</a></li>
@@ -719,7 +776,15 @@ all the pouches require to be packed under standing upright condition. </p><p st
 	}); 
 	
 </script>
-
+<script type="text/javascript">
+  $("document").ready(function() {
+var geturl=window.location.href;
+var getconcat = geturl.slice(-2);
+    setTimeout(function() {
+        $(getconcat).trigger('click');
+    },10);
+});
+</script>
 
   
 </body>
