@@ -1118,5 +1118,12 @@
 .modal-content {
     width: 82%;
 }
+#snackbar {
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    width: 80%;
+}
+}
 
 /*-------------------------*/
