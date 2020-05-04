@@ -909,7 +909,154 @@
     right: -225px;
     top: -12px;
 }
+.rig_sid5 {
+    right: -230px;
+    top: -12px;
+}
+/* The Modal Start (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
 
+/* Modal Content */
+.modal-content {
+  background-color: #fefefe;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 35%;
+  position: relative;
+}
+
+/* The Close Button */
+.close {
+      color: #aaaaaa;
+    font-size: 28px;
+    font-weight: bold;
+    display: block;
+    text-align: right;
+    margin-top: -8px;
+    margin-bottom: 25px;
+}
+
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+/* The Modal End (background) */
+.frm_cnt{
+	    display: block !important;
+    width: 95%;
+    height: 40px !important;
+    padding: 0px 0px 0px 15px !important;
+    font-size: 14px !important;
+    line-height: 1.42857143 !important;
+    color: #555 !important;
+    background-color: #fff !important;
+    background-image: none;
+    border: 1px solid #ccc !important;
+    border-radius: 0 !important;
+    margin: 0 auto;
+    margin-bottom: 20px !important;
+}
+#frm
+{
+	text-align: center;
+}
+.btnsub{
+	background-color: #fff;
+    color: #010101;
+    border: none;
+    padding: 15px 50px;
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-top: 10px;
+    border:2px solid #010101;
+    outline: none;
+}
+.btnsub:hover
+{
+	background-color: #010101;
+	color: #fff;
+}
+.modal-content::after {
+	position: absolute;
+    content: '';
+    width: 0;
+    height: 0;
+    border-top: 35px solid #010101;
+    border-right: 35px solid transparent;
+    top: 0;
+    left: 0;
+}
+.modal-content::before {
+	position: absolute;
+    content: '';
+    width: 0;
+    height: 0;
+    border-bottom: 35px solid #010101;
+    border-left: 35px solid transparent;
+    bottom: 0;
+    right: 0;
+}
+.dis_non
+{
+	display: none;
+}
+#snackbar {
+  visibility: hidden;
+  min-width: 250px;
+  margin-left: -125px;
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  border-radius: 2px;
+  padding: 16px;
+  position: fixed;
+  z-index: 1;
+  left: 50%;
+  bottom: 30px;
+  font-size: 17px;
+}
+
+#snackbar.show {
+  visibility: visible;
+  -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
+  animation: fadein 0.5s, fadeout 0.5s 2.5s;
+}
+
+@-webkit-keyframes fadein {
+  from {bottom: 0; opacity: 0;} 
+  to {bottom: 30px; opacity: 1;}
+}
+
+@keyframes fadein {
+  from {bottom: 0; opacity: 0;}
+  to {bottom: 30px; opacity: 1;}
+}
+
+@-webkit-keyframes fadeout {
+  from {bottom: 30px; opacity: 1;} 
+  to {bottom: 0; opacity: 0;}
+}
+
+@keyframes fadeout {
+  from {bottom: 30px; opacity: 1;}
+  to {bottom: 0; opacity: 0;}
+}
 
 @media(min-width: 320px) and (max-width: 767px)
 {
@@ -963,7 +1110,13 @@
 .lis_li_li {
     padding: 0 !important;
 }
-
+.rig_sid5
+{
+	 position: unset;
+	 background-color: #3c3c3c;
+}
+.modal-content {
+    width: 82%;
 }
 
 /*-------------------------*/
