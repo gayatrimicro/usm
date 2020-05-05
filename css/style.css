@@ -1057,6 +1057,18 @@
   from {bottom: 30px; opacity: 1;}
   to {bottom: 0; opacity: 0;}
 }
+.btn_pos
+{
+	position: relative;
+}
+.pos_abso
+{
+	position: absolute;
+    top: -5px;
+    width: 221px;
+    height: 42px;
+    cursor: pointer;
+}
 
 @media(min-width: 320px) and (max-width: 767px)
 {
