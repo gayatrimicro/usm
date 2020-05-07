@@ -40,7 +40,7 @@
 	                 
 	               </table>";  
 	              
-			if(mail("pgole31@gmail.com", $subject, $message, $headers))
+			if(mail("content@gmicro.us", $subject, $message, $headers))
 	  	  {
 			// delete the cookie so it cannot sent again by refreshing this page
 			// setcookie('tntcon','');
