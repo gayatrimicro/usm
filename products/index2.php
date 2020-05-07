@@ -45,71 +45,15 @@
     <div class="wrapper">
         <header>
             <div id="logo-holder">
-                <a id="logo" href="../index.html">
+                <a id="logo" href="../index.php">
                      <img src="../img/USM.jpg"  >
                 </a>
             </div>
             <div id="nav-wrapper">
             	<ul id="nav">
-                  <li class="list_li">
-            <a href="#">Products</a> <i class="fa fa-angle-down" aria-hidden="true"></i>
-            <div class="list_cat">
-                <ul>
-                    <li class="lis_li_li"><a href="#">Bagging Systems</a> <i class="fa fa-angle-right" aria-hidden="true"></i>
-                        <div class="list_subcat rig_sid">
-                            <ul>
-                              <li><a href="products/bagging.html#a">OPEN MOUTH</a></li>
-                              <li><a href="products/bagging.html#b">AUTOMATIC BAGGING LINES</a></li>
-                              <li><a href="products/bagging.html#c">IN PROCESS WEIGHING SYSTEM</a></li>
-                              <li><a href="products/bagging.html#d">VALVE (TYPE) BAGGING SYSTEMS</a></li>
-                              <li><a href="products/bagging.html#e">FIBC (BULK BAG FILLING SYSTEM)</a></li>
-                              <li><a href="products/bagging.html#g">VACCUM PACKING SYSTEMS</a></li>
-                              <li><a href="products/bagging.html">JUMBO BIG BAG FILLING</a></li>
-                          </ul>
-                      </div>
-                  </li>
-                  <li><a href="products/bagging.html#f">TRANSPORATBLE BAGGING SYSTEMS</a></li>
-                    <li><a href="bag-making.html">BAG MAKING MACHINES</a></li>                                
-                    <li class="lis_li_li"><a href="#">BAG CLOSING SYSTEM</a> <i class="fa fa-angle-right" aria-hidden="true"></i>
-                        <div class="list_subcat rig_sid2">
-                            <ul>
-                                <li><a href="../products/bag-closing.html">Bag Closing Machines</a></li>
-                                <li><a href="../products/portable-bag-closing.html">Portable Bag Closing Machines</a></li>
-                            </ul>
-                        </div>
-                    </li>
-                    <li><a href="#">VACCUM PACKING SYSTEMS</a></li>
-                    <li class="lis_li_li"><a href="#">FFS (POUCH PACKING MACHINE)</a> <i class="fa fa-angle-right" aria-hidden="true"></i>
-                        <div class="list_subcat rig_sid3">
-                            <ul>
-                                <li><a href="#">WEIGHERS</a></li>
-                                <li><a href="#">FFS</a></li>
-                            </ul>
-                        </div>
-                    </li>
-                    <li class="lis_li_li"><a href="#">CONVEYOR & ACC</a> <i class="fa fa-angle-right" aria-hidden="true"></i>
-                        <div class="list_subcat rig_sid4">
-                            <ul>
-                                <li><a href="../products/conveyor.html">BELT CONVEYOR</a></li>
-                                <li><a href="../products/conveyor.html">SLAT CONVEYOR</a></li>
-                                <li><a href="../products/conveyor.html">LORRY LOADERS</a></li>
-                                <li><a href="../products/conveyor.html">INCLINED BELT CONVEYOR</a></li>
-                                <li><a href="../products/conveyor.html">TELESCOPIC CONVEYOR</a></li>
-                                <li><a href="../products/conveyor.html">SCREW CONVEYOR</a></li>
-                            </ul>
-                        </div>
-                    </li>
-                    <li><a href="#">LIQUID FILLING</a></li>
-                    <li><a href="#">METAL DETECTORS</a></li>
-                    <li><a href="#">DUST COLLECTORS</a></li>
-                    <li><a href="#">THREAD</a></li>
-                    <li><a href="#">FUMIGATION SHEET</a></li>
-                    <li><a href="#">MANGUNESE RAIL</a></li>
-                </ul>
-            </div>
-        </li>
-                    <li><a href="../system_integration.html">System Integration</a></li>
-                     <li><a href="../spares-services.html">Spares & Service</a></li>
+                  <li><a href=".">Products</a></li>
+                    <li><a href="../system_integration.php">System Integration</a></li>
+                     <li><a href="../spares-services.php">Spares & Service</a></li>
                     <li><a href="../contact">Contact</a></li>
                 </ul>
             </div>
@@ -130,7 +74,7 @@
             <div class="inner_prodslid">
                 <div class="four columns">
                 <div class="landscape">
-                    <a href="bagging.html">
+                    <a href="bagging.php">
                         <img src="../img/product/bagging.jpg" title="" alt="" >
                         <div id="hover">
                             <div class="link-text">
@@ -143,7 +87,7 @@
             
             <div class="four columns">
                 <div class="landscape">
-                    <a href="bag-closing.html">
+                    <a href="bag-closing.php">
                         <img src="../img/product/portable.jpg" title="" alt="" >
                         <div id="hover">
                             <div class="link-text">
@@ -155,7 +99,7 @@
             </div>
              <div class="four columns">
                 <div class="landscape">
-                    <a href="portable-bag-closing.html">
+                    <a href="portable-bag-closing.php">
                         <img src="../img/product/geo-text.jpg" title="" alt="" >
                         <div id="hover">
                             <div class="link-text">
@@ -168,7 +112,7 @@
             
              <div class="four columns">
                 <div class="landscape">
-                    <a href="geo-text.html">
+                    <a href="geo-text.php">
                         <img src="../img/product/bagclosing.jpg" title="" alt="" >
                         <div id="hover">
                             <div class="link-text">
@@ -181,7 +125,7 @@
             
                <div class="four columns">
                 <div class="landscape">
-                    <a href="paletizers.html">
+                    <a href="paletizers.php">
                         <img src="../img/product/10.jpg" title="" alt="" >
                         <div id="hover">
                             <div class="link-text">
@@ -193,7 +137,7 @@
             </div>   
             <div class="four columns">
                 <div class="landscape">
-                    <a href="stretch-wrapping.html">
+                    <a href="stretch-wrapping.php">
                         <img src="../img/product/09.jpg" title="" alt="" >
                         <div id="hover">
                             <div class="link-text">
@@ -206,7 +150,7 @@
             
             <div class="four columns">
                 <div class="landscape">
-                    <a href="hot-air-sealer.html">
+                    <a href="hot-air-sealer.php">
                         <img src="../img/product/hot_air_sealers.jpg" title="" alt="" >
                         <div id="hover">
                             <div class="link-text">
@@ -221,7 +165,7 @@
                  
             <div class="four columns">
                 <div class="landscape">
-                    <a href="band_sealer.html">
+                    <a href="band_sealer.php">
                         <img src="../img/product/band_sealer.jpg" title="" alt="" >
                         <div id="hover">
                             <div class="link-text">
@@ -236,7 +180,7 @@
             
             <div class="four columns">
                 <div class="landscape">
-                    <a href="bag-making.html">
+                    <a href="bag-making.php">
                         <img src="../img/product/12.jpg" title="" alt="" >
                         <div id="hover">
                             <div class="link-text">
@@ -250,7 +194,7 @@
             
             <div class="four columns">
                 <div class="landscape">
-                    <a href="carpet-sewing.html">
+                    <a href="carpet-sewing.php">
                         <img src="../img/product/carpet-sewing-machines.jpg" title="" alt="" >
                         <div id="hover">
                             <div class="link-text">
@@ -263,7 +207,7 @@
             
             <div class="four columns">
                 <div class="landscape">
-                    <a href="conveyor.html">
+                    <a href="conveyor.php">
                         <img src="../img/product/11.jpg" title="" alt="" >
                         <div id="hover">
                             <div class="link-text">
@@ -288,49 +232,8 @@
                 </div>
             </div>
     </div>
-
-
-
             
-		<div class="slider-nav">
-            <div>
-                <img src="../img/product/bagging.jpg" title="" alt="" >
-            </div>
-            
-            <div>
-                <img src="../img/product/portable.jpg" title="" alt="" >
-            </div>
-             <div>
-                <img src="../img/product/geo-text.jpg" title="" alt="" >
-            </div>            
-             <div>
-                <img src="../img/product/bagclosing.jpg" title="" alt="" >
-            </div>
-            <div>
-                <img src="../img/product/10.jpg" title="" alt="" >
-            </div>   
-            <div>
-                <img src="../img/product/09.jpg" title="" alt="" >
-            </div>            
-            <div>
-                <img src="../img/product/hot_air_sealers.jpg" title="" alt="" >
-            </div> 
-            <div>
-               <img src="../img/product/band_sealer.jpg" title="" alt="" >
-            </div>
-            <div>
-               <img src="../img/product/12.jpg" title="" alt="" >
-            </div>
-            <div>
-                <img src="../img/product/carpet-sewing-machines.jpg" title="" alt="" >
-            </div>            
-            <div>
-                <img src="../img/product/11.jpg" title="" alt="" >
-            </div>   
-             <div>
-                <img src="../img/product/blank.jpg" title="" alt="" >
-            </div>
-        </div>	
+			
             
          
             
@@ -383,29 +286,13 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <script src="../js/slick.js"></script>
 <script type="text/javascript">
-     $('.inner_prodslid').slick({
-  slidesToShow: 1,
+    $('.inner_prodslid').slick({
+  slidesToShow: 3,
   slidesToScroll: 1,
-  arrows: false,
-  fade: true,
-  asNavFor: '.slider-nav'
-});
-$('.slider-nav').slick({
-  slidesToShow: 4,
-  slidesToScroll: 1,
-  asNavFor: '.inner_prodslid',
   arrows: true,
   dots: false,
-  centerMode: false,
-  focusOnSelect: true,
-  responsive: [
-    {
-      breakpoint: 768,
-      settings: {
-        slidesToShow: 3
-      }
-    }
-  ]
+   prevArrow:"<button type='button' class='slick-prev pull-left'><i class='fa fa-chevron-left' aria-hidden='true'></i></button>",
+    nextArrow:"<button type='button' class='slick-next pull-right'><i class='fa fa-chevron-right' aria-hidden='true'></i></button>"
 });
 </script>
   

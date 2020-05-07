@@ -42,24 +42,9 @@
 <p id="loading"><span>.</span><span>.</span><span>.</span></p>
 <!-- Header -->
 <div class="fade">
-    <div class="wrapper">
-        <header>
-            <div id="logo-holder">
-                <a id="logo" href="../index.html">
-                     <img src="../img/USM.jpg"  >
-                </a>
-            </div>
-            <div id="nav-wrapper">
-            	<ul id="nav">
-                  <li><a href=".">Products</a></li>
-                    <li><a href="../system_integration.html">System Integration</a></li>
-                     <li><a href="../spares-services.html">Spares & Service</a></li>
-                    <li><a href="../contact">Contact</a></li>
-                </ul>
-            </div>
-        </header>
-    
-    </div><!-- END Header -->
+    <?php
+    include("../header.php");
+    ?>
     
     <!-- Page Wrapper -->
     <div class="page-wrapper project-grid">
@@ -74,7 +59,7 @@
             <div class="inner_prodslid">
                 <div class="four columns">
                 <div class="landscape">
-                    <a href="bagging.html">
+                    <a href="bagging.php">
                         <img src="../img/product/bagging.jpg" title="" alt="" >
                         <div id="hover">
                             <div class="link-text">
@@ -87,7 +72,7 @@
             
             <div class="four columns">
                 <div class="landscape">
-                    <a href="bag-closing.html">
+                    <a href="bag-closing.php">
                         <img src="../img/product/portable.jpg" title="" alt="" >
                         <div id="hover">
                             <div class="link-text">
@@ -99,7 +84,7 @@
             </div>
              <div class="four columns">
                 <div class="landscape">
-                    <a href="portable-bag-closing.html">
+                    <a href="portable-bag-closing.php">
                         <img src="../img/product/geo-text.jpg" title="" alt="" >
                         <div id="hover">
                             <div class="link-text">
@@ -112,7 +97,7 @@
             
              <div class="four columns">
                 <div class="landscape">
-                    <a href="geo-text.html">
+                    <a href="geo-text.php">
                         <img src="../img/product/bagclosing.jpg" title="" alt="" >
                         <div id="hover">
                             <div class="link-text">
@@ -125,7 +110,7 @@
             
                <div class="four columns">
                 <div class="landscape">
-                    <a href="paletizers.html">
+                    <a href="paletizers.php">
                         <img src="../img/product/10.jpg" title="" alt="" >
                         <div id="hover">
                             <div class="link-text">
@@ -137,7 +122,7 @@
             </div>   
             <div class="four columns">
                 <div class="landscape">
-                    <a href="stretch-wrapping.html">
+                    <a href="stretch-wrapping.php">
                         <img src="../img/product/09.jpg" title="" alt="" >
                         <div id="hover">
                             <div class="link-text">
@@ -150,7 +135,7 @@
             
             <div class="four columns">
                 <div class="landscape">
-                    <a href="hot-air-sealer.html">
+                    <a href="hot-air-sealer.php">
                         <img src="../img/product/hot_air_sealers.jpg" title="" alt="" >
                         <div id="hover">
                             <div class="link-text">
@@ -165,7 +150,7 @@
                  
             <div class="four columns">
                 <div class="landscape">
-                    <a href="band_sealer.html">
+                    <a href="band_sealer.php">
                         <img src="../img/product/band_sealer.jpg" title="" alt="" >
                         <div id="hover">
                             <div class="link-text">
@@ -180,7 +165,7 @@
             
             <div class="four columns">
                 <div class="landscape">
-                    <a href="bag-making.html">
+                    <a href="bag-making.php">
                         <img src="../img/product/12.jpg" title="" alt="" >
                         <div id="hover">
                             <div class="link-text">
@@ -194,7 +179,7 @@
             
             <div class="four columns">
                 <div class="landscape">
-                    <a href="carpet-sewing.html">
+                    <a href="carpet-sewing.php">
                         <img src="../img/product/carpet-sewing-machines.jpg" title="" alt="" >
                         <div id="hover">
                             <div class="link-text">
@@ -207,7 +192,7 @@
             
             <div class="four columns">
                 <div class="landscape">
-                    <a href="conveyor.html">
+                    <a href="conveyor.php">
                         <img src="../img/product/11.jpg" title="" alt="" >
                         <div id="hover">
                             <div class="link-text">
@@ -232,8 +217,49 @@
                 </div>
             </div>
     </div>
+
+
+
             
-			
+		<div class="slider-nav">
+            <div>
+                <img src="../img/product/bagging.jpg" title="" alt="" >
+            </div>
+            
+            <div>
+                <img src="../img/product/portable.jpg" title="" alt="" >
+            </div>
+             <div>
+                <img src="../img/product/geo-text.jpg" title="" alt="" >
+            </div>            
+             <div>
+                <img src="../img/product/bagclosing.jpg" title="" alt="" >
+            </div>
+            <div>
+                <img src="../img/product/10.jpg" title="" alt="" >
+            </div>   
+            <div>
+                <img src="../img/product/09.jpg" title="" alt="" >
+            </div>            
+            <div>
+                <img src="../img/product/hot_air_sealers.jpg" title="" alt="" >
+            </div> 
+            <div>
+               <img src="../img/product/band_sealer.jpg" title="" alt="" >
+            </div>
+            <div>
+               <img src="../img/product/12.jpg" title="" alt="" >
+            </div>
+            <div>
+                <img src="../img/product/carpet-sewing-machines.jpg" title="" alt="" >
+            </div>            
+            <div>
+                <img src="../img/product/11.jpg" title="" alt="" >
+            </div>   
+             <div>
+                <img src="../img/product/blank.jpg" title="" alt="" >
+            </div>
+        </div>	
             
          
             
@@ -286,13 +312,29 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <script src="../js/slick.js"></script>
 <script type="text/javascript">
-    $('.inner_prodslid').slick({
-  slidesToShow: 3,
+     $('.inner_prodslid').slick({
+  slidesToShow: 1,
   slidesToScroll: 1,
+  arrows: false,
+  fade: true,
+  asNavFor: '.slider-nav'
+});
+$('.slider-nav').slick({
+  slidesToShow: 4,
+  slidesToScroll: 1,
+  asNavFor: '.inner_prodslid',
   arrows: true,
   dots: false,
-   prevArrow:"<button type='button' class='slick-prev pull-left'><i class='fa fa-chevron-left' aria-hidden='true'></i></button>",
-    nextArrow:"<button type='button' class='slick-next pull-right'><i class='fa fa-chevron-right' aria-hidden='true'></i></button>"
+  centerMode: false,
+  focusOnSelect: true,
+  responsive: [
+    {
+      breakpoint: 768,
+      settings: {
+        slidesToShow: 3
+      }
+    }
+  ]
 });
 </script>
   

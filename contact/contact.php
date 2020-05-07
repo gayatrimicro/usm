@@ -16,7 +16,7 @@ if(isset($_GET['mail'])){
 		Phone : $phone \n
 		Enquiry : $enq";
 		$from = $_GET['mail'];
-		$headers = "From: $from";
+		$headers = "From: Product Inquiry by $email";
 		// mail("content@gmicro.us, seo@gmicro.us",$subject,$message,$headers);
 		mail($to,$subject,$message,$headers);
 		echo'success';	

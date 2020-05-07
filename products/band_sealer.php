@@ -110,90 +110,9 @@ h2.tisa1, h3.tisa1 {
 	<p id="loading"><span>.</span><span>.</span><span>.</span></p>
     <!-- Header -->
     <div class="fade">
-    <div class="wrapper">
-    
-        <header>
-            <div id="logo-holder">
-                <a id="logo" href="../index.html">
-                     <img src="../img/USM.jpg"  >
-                </a>
-            </div>
-            <div id="nav-wrapper">
-            	<ul id="nav">
-                   <li class="list_li">
-            <a href="#">Products</a> <i class="fa fa-angle-down" aria-hidden="true"></i>
-            <div class="list_cat">
-                <ul>
-                    <li class="lis_li_li"><a href="#">Bagging Systems</a> <i class="fa fa-angle-right" aria-hidden="true"></i>
-                        <div class="list_subcat rig_sid">
-                            <ul>
-                                <li><a href="../products/bagging.html#a">OPEN MOUTH</a></li>
-                                <li><a href="../products/bagging.html#b">AUTOMATIC BAGGING LINES</a></li>
-                                <li><a href="../products/bagging.html#c">IN PROCESS WEIGHING SYSTEM</a></li>
-                                <li><a href="../products/bagging.html#d">VALVE (TYPE) BAGGING SYSTEMS</a></li>
-                                <li><a href="../products/bagging.html#e">FIBC (BULK BAG FILLING SYSTEM)</a></li>
-                                <li><a href="../products/bagging.html">JUMBO BIG BAG FILLING</a></li>
-                            </ul>
-                        </div>
-                    </li>
-                    <li><a href="products/bagging.html#f">TRANSPORATBLE BAGGING SYSTEMS</a></li>
-                    <li class="lis_li_li"><a href="#">FFS (POUCH PACKING MACHINE)</a> <i class="fa fa-angle-right" aria-hidden="true"></i>
-                        <div class="list_subcat rig_sid3">
-                            <ul>
-                                <li><a href="#" onclick="get_num(0)">WEIGHERS</a><a href="../pdf/Check-Weighers.pdf" class="dis_non btn_1" target="_blank"></a></li>
-                                <li><a href="#" onclick="get_num(1)">FFS</a><a href="../pdf/Weigher-FFS-Final.pdf" class="dis_non btn_1" target="_blank"></a></li>
-                            </ul>
-                        </div>
-                    </li>                                                               
-                    <li class="lis_li_li"><a href="#">BAG CLOSING SYSTEM</a> <i class="fa fa-angle-right" aria-hidden="true"></i>
-                        <div class="list_subcat rig_sid2">
-                            <ul>
-                                <li><a href="../products/bag-closing.html">Bag Closing Machines</a></li>
-                                <li><a href="../products/portable-bag-closing.html">Portable Bag Closing Machines</a></li>
-                            </ul>
-                        </div>
-                    </li>
-                    <li><a href="../products/bag-making.html">BAG MAKING MACHINES</a></li>
-                     <li><a href="../products/geo-text.html">GEO TEXT SEWING</a></li>                                  
-                    <li><a href="#">VACCUM PACKING SYSTEMS</a></li>                                
-                    <li class="lis_li_li"><a href="#">CONVEYOR & ACC</a> <i class="fa fa-angle-right" aria-hidden="true"></i>
-                        <div class="list_subcat rig_sid4">
-                            <ul>
-                                <li><a href="../products/conveyor.html">BELT CONVEYOR</a></li>
-                                <li><a href="../products/conveyor.html">SLAT CONVEYOR</a></li>
-                                <li><a href="../products/conveyor.html">LORRY LOADERS</a></li>
-                                <li><a href="../products/conveyor.html">INCLINED BELT CONVEYOR</a></li>
-                                <li><a href="../products/conveyor.html">TELESCOPIC CONVEYOR</a></li>
-                                <li><a href="../products/conveyor.html">SCREW CONVEYOR</a></li>
-                            </ul>
-                        </div>
-                    </li>
-                    <li><a href="#">BUCKET ELEVATOR</a></li>
-                    <li><a href="#">ON LINE WEIGHER</a></li>
-                    <li><a href="#">LIQUID FILLING</a></li>
-                    <li class="lis_li_li"><a href="#">METAL DETECTORS</a> <i class="fa fa-angle-right" aria-hidden="true"></i>
-                        <div class="list_subcat rig_sid5">
-                            <ul>
-                                <li><a href="#" onclick="get_num(2)">ONLINE METAL DETECTORS</a><a href="../pdf/Online-Metal-Detector.pdf" class="dis_non btn_1" target="_blank"></a></li>
-                                <li><a href="#" onclick="get_num(3)">GRAVITY METAL DETECTORS</a><a href="../pdf/Gravity-Metal-Detector.pdf" class="dis_non btn_1" target="_blank"></a></li>
-                            </ul>
-                        </div>
-                    </li>
-                    <li><a href="#">DUST COLLECTORS</a></li>
-                    <li><a href="#">THREAD</a></li>
-                    <li><a href="#">FUMIGATION SHEET</a></li>
-                    <li><a href="#">MANGUNESE RAIL</a></li>
-                </ul>
-            </div>
-        </li>
-                    <li><a href="../system_integration.html">System Integration</a></li>
-                    <li><a href="../spares-services.html">Spares & Service</a></li>
-                    <li><a href="../contact">Contact</a></li>
-                </ul>
-            </div>
-        </header>
-    
-    </div><!-- END Header -->
+    <?php
+    include("../header.php");
+    ?>
     
     <!-- Page Wrapper -->
     <div class="page-wrapper project-grid">
@@ -236,7 +155,7 @@ various plastic coated papers and foils.</p>
 
 <p>For bags containing more than a few grammes manual support (or convey or when practical) may be required.</p>
 
-       <p style="margin-top:25px; " class="btn-primary1"><a href="pdf/band_sealer/Catalogue_Assi_BDV0001.pdf" target="_blank" class="btn btn-large btn-primary">Download BD Series catalogue<span class="icon-preventivo"> </span></a></p>
+       <p style="margin-top:25px; " class="btn-primary1 btn_pos"><span class="pos_abso" onclick="get_num(0)"></span><a href="pdf/band_sealer/Catalogue_Assi_BDV0001.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download BD Series catalogue<span class="icon-preventivo"> </span></a></p>
               
               
 
@@ -352,75 +271,9 @@ various plastic coated papers and foils.</p>
 	
 </script>
 
-<div id="get_infofrm" class="modal">
-  <div class="modal-content">
-    <span class="close">&times;</span>
-    <div>
-        <form id="frm">
-            <input type="text" class="frm_cnt" id="txtfild" name="txtfild" placeholder="Name" required>
-          <input type="email" class="frm_cnt" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" title="Enter valid E-mail address." id="emlfild" name="emlfild" placeholder="Email" required>
-          <input type="text" class="frm_cnt" id="mobilefild" name="mobilefild" maxlength="10" pattern="[0-9]{10,10}$" title="Enter valid contact number." placeholder="Mobile" required>
-          <input type="hidden" id="hid_val">
-          <button type="submit" class="btnsub">submit</button>
-      </form>
-    </div>    
-  </div>
-
-</div>
-<div id="snackbar">Your Information Sent Successfully ...</div>
-<script type="text/javascript">
-
-    $('#frm').submit(function(event) {
-      event.preventDefault();
-      var formdata = $('#frm').serialize();      
-        if ($('#txtfild').val() != "" && $('#emlfild').val() != "" && $('#mobilefild').val() != "") {
-          $.ajax({
-                  url:'../pdf.php',
-                  type:'POST',
-                  data:formdata,
-                  success:function(result){
-                    document.getElementById("get_infofrm").style.display = "none";
-                    show_snack();
-                    var get_data=$("#hid_val").val();
-                    setTimeout(function(){ open_pdf(get_data); }, 3000);
-                    
-                      $("#txtfild, #emlfild, #mobilefild").val("");
-                  } 
-                });
-              }
-       else{
-        alert("All fields are mandatory");
-          }
-    });
-
-</script>
-<script type="text/javascript">
-var modal = document.getElementById("get_infofrm");
-
-function open_pdf(num){
-    $(".btn_1")[num].click();
-}
-
-function get_num(val){
-$("#hid_val").val(val);
-modal.style.display = "block";
-}
-
-$(".close").click(function() {
-   modal.style.display = "none";
- });
-
-window.onclick = function(event) {
-  if (event.target == modal) {
-    modal.style.display = "none";
-  }
-}
-function show_snack() {
-  var x = document.getElementById("snackbar");
-  x.className = "show";
-  setTimeout(function(){ x.className = x.className.replace("show", ""); }, 3000);
-}
-</script>
+<?php
+include("../modal-pdf.php");
+?>
   
 </body>
 </html>

@@ -57,89 +57,9 @@
 
 	<div class="fade">
     <!-- Header -->
-    <div class="wrapper">
-    
-        <header>
-            <div id="logo-holder">
-                <a id="logo" href="index.html">
-                    <img src="img/USM.jpg"  >
-                </a>
-            </div>
-            <div id="nav-wrapper">
-            	<ul id="nav">
-                    <li class="list_li">
-                        <a href="#">Products</a> <i class="fa fa-angle-down" aria-hidden="true"></i>
-                        <div class="list_cat">
-                            <ul>
-                                <li class="lis_li_li"><a href="#">Bagging Systems</a> <i class="fa fa-angle-right" aria-hidden="true"></i>
-                                    <div class="list_subcat rig_sid">
-                                        <ul>
-                                            <li><a href="products/bagging.html#a">OPEN MOUTH</a></li>
-                                            <li><a href="products/bagging.html#b">AUTOMATIC BAGGING LINES</a></li>
-                                            <li><a href="products/bagging.html#c">IN PROCESS WEIGHING SYSTEM</a></li>
-                                            <li><a href="products/bagging.html#d">VALVE (TYPE) BAGGING SYSTEMS</a></li>
-                                            <li><a href="products/bagging.html#e">FIBC (BULK BAG FILLING SYSTEM)</a></li>
-                                            <li><a href="products/bagging.html">JUMBO BIG BAG FILLING</a></li>
-                                        </ul>
-                                    </div>
-                                </li>
-                                <li><a href="products/bagging.html#f">TRANSPORATBLE BAGGING SYSTEMS</a></li>
-                                <li class="lis_li_li"><a href="#">FFS (POUCH PACKING MACHINE)</a> <i class="fa fa-angle-right" aria-hidden="true"></i>
-                                    <div class="list_subcat rig_sid3">
-                                        <ul>
-                                            <li><a href="#" onclick="get_num(0)">WEIGHERS</a><a href="pdf/Check-Weighers.pdf" class="dis_non btn_1" target="_blank"></a></li>
-                                            <li><a href="#" onclick="get_num(1)">FFS</a><a href="pdf/Weigher-FFS-Final.pdf" class="dis_non btn_1" target="_blank"></a></li>
-                                        </ul>
-                                    </div>
-                                </li>                                                               
-                                <li class="lis_li_li"><a href="#">BAG CLOSING SYSTEM</a> <i class="fa fa-angle-right" aria-hidden="true"></i>
-                                    <div class="list_subcat rig_sid2">
-                                        <ul>
-                                            <li><a href="products/bag-closing.html">Bag Closing Machines</a></li>
-                                            <li><a href="products/portable-bag-closing.html">Portable Bag Closing Machines</a></li>
-                                        </ul>
-                                    </div>
-                                </li>
-                                <li><a href="bag-making.html">BAG MAKING MACHINES</a></li>
-                                 <li><a href="products/geo-text.html">GEO TEXT SEWING</a></li>                                  
-                                <li><a href="#">VACCUM PACKING SYSTEMS</a></li>                                
-                                <li class="lis_li_li"><a href="#">CONVEYOR & ACC</a> <i class="fa fa-angle-right" aria-hidden="true"></i>
-                                    <div class="list_subcat rig_sid4">
-                                        <ul>
-                                            <li><a href="products/conveyor.html">BELT CONVEYOR</a></li>
-                                            <li><a href="products/conveyor.html">SLAT CONVEYOR</a></li>
-                                            <li><a href="products/conveyor.html">LORRY LOADERS</a></li>
-                                            <li><a href="products/conveyor.html">INCLINED BELT CONVEYOR</a></li>
-                                            <li><a href="products/conveyor.html">TELESCOPIC CONVEYOR</a></li>
-                                            <li><a href="products/conveyor.html">SCREW CONVEYOR</a></li>
-                                        </ul>
-                                    </div>
-                                </li>
-                                <li><a href="#">BUCKET ELEVATOR</a></li>
-                                <li><a href="#">ON LINE WEIGHER</a></li>
-                                <li><a href="#">LIQUID FILLING</a></li>
-                                <li class="lis_li_li"><a href="#">METAL DETECTORS</a> <i class="fa fa-angle-right" aria-hidden="true"></i>
-                                    <div class="list_subcat rig_sid5">
-                                        <ul>
-                                            <li><a href="#" onclick="get_num(2)">ONLINE METAL DETECTORS</a><a href="pdf/Online-Metal-Detector.pdf" class="dis_non btn_1" target="_blank"></a></li>
-                                            <li><a href="#" onclick="get_num(3)">GRAVITY METAL DETECTORS</a><a href="pdf/Gravity-Metal-Detector.pdf" class="dis_non btn_1" target="_blank"></a></li>
-                                        </ul>
-                                    </div>
-                                </li>
-                                <li><a href="#">DUST COLLECTORS</a></li>
-                                <li><a href="#">THREAD</a></li>
-                                <li><a href="#">FUMIGATION SHEET</a></li>
-                                <li><a href="#">MANGUNESE RAIL</a></li>
-                            </ul>
-                        </div>
-                    </li>
-                    <li><a href="system_integration.html">System Integration</a></li>
-                    <li><a href="spares-services.html">Spares & Service</a></li>
-                    <li><a href="contact">Contact</a></li>
-                </ul>
-            </div>
-        </header>
-    </div><!-- END Header -->
+    <?php
+    include("header.php");
+    ?>
     <!-- Page Wrapper -->
     <div class="page-wrapper project-grid">
         <!-- Project Container -->
@@ -297,6 +217,7 @@
     <span class="close">&times;</span>
     <div>
         <form id="frm">
+            
             <input type="text" class="frm_cnt" id="txtfild" name="txtfild" placeholder="Name" required>
           <input type="email" class="frm_cnt" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" title="Enter valid E-mail address." id="emlfild" name="emlfild" placeholder="Email" required>
           <input type="text" class="frm_cnt" id="mobilefild" name="mobilefild" maxlength="10" pattern="[0-9]{10,10}$" title="Enter valid contact number." placeholder="Mobile" required>

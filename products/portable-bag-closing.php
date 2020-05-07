@@ -110,90 +110,9 @@ h2.tisa1, h3.tisa1 {
 	<p id="loading"><span>.</span><span>.</span><span>.</span></p>
     <!-- Header -->
     <div class="fade">
-    <div class="wrapper">
-    
-        <header>
-            <div id="logo-holder">
-                <a id="logo" href="../index.html">
-                     <img src="../img/USM.jpg"  >
-                </a>
-            </div>
-            <div id="nav-wrapper">
-            	<ul id="nav">
-                   <li class="list_li">
-            <a href="#">Products</a> <i class="fa fa-angle-down" aria-hidden="true"></i>
-            <div class="list_cat">
-                <ul>
-                    <li class="lis_li_li"><a href="#">Bagging Systems</a> <i class="fa fa-angle-right" aria-hidden="true"></i>
-                        <div class="list_subcat rig_sid">
-                            <ul>
-                                <li><a href="../products/bagging.html#a">OPEN MOUTH</a></li>
-                                <li><a href="../products/bagging.html#b">AUTOMATIC BAGGING LINES</a></li>
-                                <li><a href="../products/bagging.html#c">IN PROCESS WEIGHING SYSTEM</a></li>
-                                <li><a href="../products/bagging.html#d">VALVE (TYPE) BAGGING SYSTEMS</a></li>
-                                <li><a href="../products/bagging.html#e">FIBC (BULK BAG FILLING SYSTEM)</a></li>
-                                <li><a href="../products/bagging.html">JUMBO BIG BAG FILLING</a></li>
-                            </ul>
-                        </div>
-                    </li>
-                    <li><a href="products/bagging.html#f">TRANSPORATBLE BAGGING SYSTEMS</a></li>
-                    <li class="lis_li_li"><a href="#">FFS (POUCH PACKING MACHINE)</a> <i class="fa fa-angle-right" aria-hidden="true"></i>
-                        <div class="list_subcat rig_sid3">
-                            <ul>
-                                <li><a href="#" onclick="get_num(0)">WEIGHERS</a><a href="../pdf/Check-Weighers.pdf" class="dis_non btn_1" target="_blank"></a></li>
-                                <li><a href="#" onclick="get_num(1)">FFS</a><a href="../pdf/Weigher-FFS-Final.pdf" class="dis_non btn_1" target="_blank"></a></li>
-                            </ul>
-                        </div>
-                    </li>                                                               
-                    <li class="lis_li_li"><a href="#">BAG CLOSING SYSTEM</a> <i class="fa fa-angle-right" aria-hidden="true"></i>
-                        <div class="list_subcat rig_sid2">
-                            <ul>
-                                <li><a href="../products/bag-closing.html">Bag Closing Machines</a></li>
-                                <li><a href="../products/portable-bag-closing.html">Portable Bag Closing Machines</a></li>
-                            </ul>
-                        </div>
-                    </li>
-                    <li><a href="../products/bag-making.html">BAG MAKING MACHINES</a></li>
-                     <li><a href="../products/geo-text.html">GEO TEXT SEWING</a></li>                                  
-                    <li><a href="#">VACCUM PACKING SYSTEMS</a></li>                                
-                    <li class="lis_li_li"><a href="#">CONVEYOR & ACC</a> <i class="fa fa-angle-right" aria-hidden="true"></i>
-                        <div class="list_subcat rig_sid4">
-                            <ul>
-                                <li><a href="../products/conveyor.html">BELT CONVEYOR</a></li>
-                                <li><a href="../products/conveyor.html">SLAT CONVEYOR</a></li>
-                                <li><a href="../products/conveyor.html">LORRY LOADERS</a></li>
-                                <li><a href="../products/conveyor.html">INCLINED BELT CONVEYOR</a></li>
-                                <li><a href="../products/conveyor.html">TELESCOPIC CONVEYOR</a></li>
-                                <li><a href="../products/conveyor.html">SCREW CONVEYOR</a></li>
-                            </ul>
-                        </div>
-                    </li>
-                    <li><a href="#">BUCKET ELEVATOR</a></li>
-                    <li><a href="#">ON LINE WEIGHER</a></li>
-                    <li><a href="#">LIQUID FILLING</a></li>
-                    <li class="lis_li_li"><a href="#">METAL DETECTORS</a> <i class="fa fa-angle-right" aria-hidden="true"></i>
-                        <div class="list_subcat rig_sid5">
-                            <ul>
-                                <li><a href="#" onclick="get_num(2)">ONLINE METAL DETECTORS</a><a href="../pdf/Online-Metal-Detector.pdf" class="dis_non btn_1" target="_blank"></a></li>
-                                <li><a href="#" onclick="get_num(3)">GRAVITY METAL DETECTORS</a><a href="../pdf/Gravity-Metal-Detector.pdf" class="dis_non btn_1" target="_blank"></a></li>
-                            </ul>
-                        </div>
-                    </li>
-                    <li><a href="#">DUST COLLECTORS</a></li>
-                    <li><a href="#">THREAD</a></li>
-                    <li><a href="#">FUMIGATION SHEET</a></li>
-                    <li><a href="#">MANGUNESE RAIL</a></li>
-                </ul>
-            </div>
-        </li>
-                    <li><a href="../system_integration.html">System Integration</a></li>
-                    <li><a href="../spares-services.html">Spares & Service</a></li>
-                    <li><a href="../contact">Contact</a></li>
-                </ul>
-            </div>
-        </header>
-    
-    </div><!-- END Header -->
+    <?php
+    include("../header.php");
+    ?>
     
     <!-- Page Wrapper -->
     <div class="page-wrapper project-grid">
@@ -202,7 +121,7 @@ h2.tisa1, h3.tisa1 {
         <div class="container">
             
             <div class="work-heading" style="padding-bottom: 10px;">
-            	<h1>Hot Air Sealers </h1>
+            	<h1>Portable Bag Closing Machines</h1>
               
             </div>
         
@@ -212,29 +131,22 @@ h2.tisa1, h3.tisa1 {
         <div id="panes">
           <div style="margin-top:0px;  border-top: 0px solid #ECECEC; float:left;padding: 0px 0 24px;" id="b1">
             	<div class="offset-by-one six columns" >
-                 <h3 style="padding-left:0px;">GENERAL DESCRIPTION AND MODE OF OPERATION</h3>
-            		<p>The High Integrity versions of the AXON 2 , 5, 10 and 20 'Hot - Air' Continuous Sealers have been designed specifically for the closure of plastic bags and sacks hygiene and / or resistance to harsh environments are of prime importance. In Operation, a continuous stream of precision heated ' Hot Air' is directed simultaneously to both sides of the neck of the plastic bag as it is fed through the sealing head. The plastic becomes semi-molten and is welded firmly by crimping wheels to form a permanent air - tight seal. Air temperature is regulated by an ' intelligent' P.I.D. Controller to ensure seal integrity
+                 <h3 style="padding-left:0px;">Portable Bag Closing Machines</h3>
+            		<p>The Portable Bag Closing Machines is suitable for any kind of bags, closed either by sewing or heat sealing, as well as for valve bags, independent of the kind of bag material. 
 </p>
 
- <p style="margin-top:25px; " class="btn-primary1"><a href="pdf/hot-air-sealer/Axon_10_05-Aug-11_1.pdf" target="_blank" class="btn btn-large btn-primary">Download  catalogue<span class="icon-preventivo"> </span></a></p>
- 
+ <h2 class="tisa1" style=" text-align:left;color:#000;padding-left:0px; margin-bottom:8px; margin-top:10px;">Features and Benefits</h2>
 
-
-
-
-      
+     <ul class="services1" style="list-style:disc;"><li>The sturdy high quality ensures long lasting productive use of the machines.</li>
+   <li> Easy operation</li>
+    <li>Reducing the number of personnel employed by the alphanumeric diagnostic terminal and the various control devices.</li>
+   <li> PLC integrated with the central control unit facilitates use of the line.</li>
+   <li> The targeted employment of peripheral devices provides fully automatic operation.</li>
+   <li> The composition of the entire system, specified according to particular demands ensures completely fulfilled requirement.</li></ul>
                 </div>
                 
                 <div class="four columns">
-                <h2 class="tisa1" style=" text-align:left;color:#000;padding-left: 16px; margin-bottom:8px;">MAIN FEATURES</h2>
-    <ul class="services1" style="list-style:disc;"><li>New ultra-efficient 'Hot-Air' system features stainless steel heating capsules.</li>
-    <li>Heating Controller-latest P.I.D. (proportional integral and derivative) temperature control technology with LED digital display.</li>
-     <li>The deep throat of the AXON allows up to 110 mm of bag above the seal and can accommodate certain proprietary handles.</li>
-     <li>All working parts are fully accessible.</li>
-     <li>Large range of drive pulleys gives almost infinite choice of machine speeds - to suit either your existing conveyor lines or your production.</li>
-     <li>A range of different pressure wheel profiles to suit your application or type of bag. These can be quickly and easily chnaged to dkeep down - time to a minimum.</li>
-     <li>Tamperproof switch ensures safe isolation of power supply when the hinged cover is opened.</li>
-     <li>Ergonomic infeed mouldings allow easy feeding of bags.</li></ul>
+                <img src="../img/product/Palletizing.jpg" style="margin:0px 0px 0px 20px;">
                                 </div>
                 
             </div>

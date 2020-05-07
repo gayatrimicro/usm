@@ -110,90 +110,9 @@ h2.tisa1, h3.tisa1 {
 	<p id="loading"><span>.</span><span>.</span><span>.</span></p>
     <!-- Header -->
     <div class="fade">
-    <div class="wrapper">
-    
-        <header>
-            <div id="logo-holder">
-                <a id="logo" href="../index.html">
-                     <img src="../img/USM.jpg"  >
-                </a>
-            </div>
-            <div id="nav-wrapper">
-            	<ul id="nav">
-                   <li class="list_li">
-            <a href="#">Products</a> <i class="fa fa-angle-down" aria-hidden="true"></i>
-            <div class="list_cat">
-                <ul>
-                    <li class="lis_li_li"><a href="#">Bagging Systems</a> <i class="fa fa-angle-right" aria-hidden="true"></i>
-                        <div class="list_subcat rig_sid">
-                            <ul>
-                                <li><a href="../products/bagging.html#a">OPEN MOUTH</a></li>
-                                <li><a href="../products/bagging.html#b">AUTOMATIC BAGGING LINES</a></li>
-                                <li><a href="../products/bagging.html#c">IN PROCESS WEIGHING SYSTEM</a></li>
-                                <li><a href="../products/bagging.html#d">VALVE (TYPE) BAGGING SYSTEMS</a></li>
-                                <li><a href="../products/bagging.html#e">FIBC (BULK BAG FILLING SYSTEM)</a></li>
-                                <li><a href="../products/bagging.html">JUMBO BIG BAG FILLING</a></li>
-                            </ul>
-                        </div>
-                    </li>
-                    <li><a href="products/bagging.html#f">TRANSPORATBLE BAGGING SYSTEMS</a></li>
-                    <li class="lis_li_li"><a href="#">FFS (POUCH PACKING MACHINE)</a> <i class="fa fa-angle-right" aria-hidden="true"></i>
-                        <div class="list_subcat rig_sid3">
-                            <ul>
-                                <li><a href="#" onclick="get_num(0)">WEIGHERS</a><a href="../pdf/Check-Weighers.pdf" class="dis_non btn_1" target="_blank"></a></li>
-                                <li><a href="#" onclick="get_num(1)">FFS</a><a href="../pdf/Weigher-FFS-Final.pdf" class="dis_non btn_1" target="_blank"></a></li>
-                            </ul>
-                        </div>
-                    </li>                                                               
-                    <li class="lis_li_li"><a href="#">BAG CLOSING SYSTEM</a> <i class="fa fa-angle-right" aria-hidden="true"></i>
-                        <div class="list_subcat rig_sid2">
-                            <ul>
-                                <li><a href="../products/bag-closing.html">Bag Closing Machines</a></li>
-                                <li><a href="../products/portable-bag-closing.html">Portable Bag Closing Machines</a></li>
-                            </ul>
-                        </div>
-                    </li>
-                    <li><a href="../products/bag-making.html">BAG MAKING MACHINES</a></li>
-                     <li><a href="../products/geo-text.html">GEO TEXT SEWING</a></li>                                  
-                    <li><a href="#">VACCUM PACKING SYSTEMS</a></li>                                
-                    <li class="lis_li_li"><a href="#">CONVEYOR & ACC</a> <i class="fa fa-angle-right" aria-hidden="true"></i>
-                        <div class="list_subcat rig_sid4">
-                            <ul>
-                                <li><a href="../products/conveyor.html">BELT CONVEYOR</a></li>
-                                <li><a href="../products/conveyor.html">SLAT CONVEYOR</a></li>
-                                <li><a href="../products/conveyor.html">LORRY LOADERS</a></li>
-                                <li><a href="../products/conveyor.html">INCLINED BELT CONVEYOR</a></li>
-                                <li><a href="../products/conveyor.html">TELESCOPIC CONVEYOR</a></li>
-                                <li><a href="../products/conveyor.html">SCREW CONVEYOR</a></li>
-                            </ul>
-                        </div>
-                    </li>
-                    <li><a href="#">BUCKET ELEVATOR</a></li>
-                    <li><a href="#">ON LINE WEIGHER</a></li>
-                    <li><a href="#">LIQUID FILLING</a></li>
-                    <li class="lis_li_li"><a href="#">METAL DETECTORS</a> <i class="fa fa-angle-right" aria-hidden="true"></i>
-                        <div class="list_subcat rig_sid5">
-                            <ul>
-                                <li><a href="#" onclick="get_num(2)">ONLINE METAL DETECTORS</a><a href="../pdf/Online-Metal-Detector.pdf" class="dis_non btn_1" target="_blank"></a></li>
-                                <li><a href="#" onclick="get_num(3)">GRAVITY METAL DETECTORS</a><a href="../pdf/Gravity-Metal-Detector.pdf" class="dis_non btn_1" target="_blank"></a></li>
-                            </ul>
-                        </div>
-                    </li>
-                    <li><a href="#">DUST COLLECTORS</a></li>
-                    <li><a href="#">THREAD</a></li>
-                    <li><a href="#">FUMIGATION SHEET</a></li>
-                    <li><a href="#">MANGUNESE RAIL</a></li>
-                </ul>
-            </div>
-        </li>
-                    <li><a href="../system_integration.html">System Integration</a></li>
-                    <li><a href="../spares-services.html">Spares & Service</a></li>
-                    <li><a href="../contact">Contact</a></li>
-                </ul>
-            </div>
-        </header>
-    
-    </div><!-- END Header -->
+    <?php
+    include("../header.php");
+    ?>
     
     <!-- Page Wrapper -->
     <div class="page-wrapper project-grid">
@@ -260,9 +179,9 @@ h2.tisa1, h3.tisa1 {
             	<div class="offset-by-one six columns" >
                  <h3 style="padding-left:0px;">E - Series WEIGHING AND BAGGING SYSTEM</h3>
             		<p>The latest generation of the E SERIES net weighers meets the highest demands for accuracy, reliability and performance. The simple construction and sturdy design ensure safe and accurate operation. Our precision weighing systems are available in single weigher, double weigher combinations or fully integrated in bagging lines for a weighing range from 5 to 50 kg per weighment (larger weighments upon request). </p>
-                    <p style="margin-top:35px;" class="btn-primary1"><a href="pdf/E-series/E_23102012_EN.pdf" target="_blank" class="btn btn-large btn-primary">Download E SERIES catalogue<span class="icon-preventivo"> </span></a></p>
-                    <p style="margin-top:25px;" class="btn-primary1"><a href="pdf/E-series/E_Series_23102012_EN.pdf" target="_blank" class="btn btn-large btn-primary">Download E 55 SERIES catalogue<span class="icon-preventivo"> </span></a></p>
-                    <p style="margin-top:25px; " class="btn-primary1"><a href="pdf/E-series/E55_MB_23102012_EN.pdf" target="_blank" class="btn btn-large btn-primary">Download E 55-MB SERIES catalogue<span class="icon-preventivo"> </span></a></p>
+                    <p style="margin-top:35px;" class="btn-primary1 btn_pos"><span class="pos_abso" onclick="get_num(0)"></span><a href="pdf/E-series/E_23102012_EN.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download E SERIES catalogue<span class="icon-preventivo"> </span></a></p>
+                    <p style="margin-top:25px;" class="btn-primary1 btn_pos"><span class="pos_abso" onclick="get_num(1)"></span><a href="pdf/E-series/E_Series_23102012_EN.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download E 55 SERIES catalogue<span class="icon-preventivo"> </span></a></p>
+                    <p style="margin-top:25px; " class="btn-primary1 btn_pos"><span class="pos_abso" onclick="get_num(2)"></span><a href="pdf/E-series/E55_MB_23102012_EN.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download E 55-MB SERIES catalogue<span class="icon-preventivo"> </span></a></p>
                 </div>
                <div class="four columns">
                     <h3 style=" padding-left: 16px;">Features and benefits</h3>
@@ -389,7 +308,7 @@ The in-built air balancing system is designed to minimize product build up on in
                  <h3 style="padding-left:0px;">Feeders</h3>
             		<p>A complete range of feeders is offered to work along with the E55 in order to suit every type of product. It comprises gravity, gravity high speed, gravity-vibratory, belt, belt high speed, screw and vibratory feeders. </p>
                     
-            <p style="margin-top:25px;" class="btn-primary1"><a href="pdf/E-series/E_Series_23102012_EN.pdf" target="_blank" class="btn btn-large btn-primary">Download Feeders catalogue<span class="icon-preventivo"> </span></a></p>
+            <p style="margin-top:25px;" class="btn-primary1 btn_pos"><span class="pos_abso" onclick="get_num(3)"></span><a href="pdf/E-series/E_Series_23102012_EN.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download Feeders catalogue<span class="icon-preventivo"> </span></a></p>
                 </div>
             </div>
             
@@ -535,7 +454,7 @@ Chemicals: Fertiliser, plastic pellets, salt and corrosive materials, etc.</p>
             	<div class="offset-by-one six columns" >
                  <h3 style="padding-left:0px;">IN PROCESS WEIGHING SYSTEM</h3>
             		<p>In the modern factory, data collection is essential to automate the labor intensive stock reconciliation needs of an efficiently run plant. This means, as an operator, you need to accurately record all material movements in the plant, from intake and right through the process. The AW/VW In-Process Weighers represent your best route to the necessary precision to realize enhanced operating profits. The design ensures that weighing accuracy is not compromised whatever the product being monitored, extracted, controlled or totalized.</p>
-                    <p style="margin-top:35px;" class="btn-primary1"><a href="pdf/process-weigher/AW_VW_23102012_EN.pdf" target="_blank" class="btn btn-large btn-primary">Download catalogue<span class="icon-preventivo"> </span></a></p>
+                    <p style="margin-top:35px;" class="btn-primary1 btn_pos"><span class="pos_abso" onclick="get_num(11)"></span><a href="pdf/process-weigher/AW_VW_23102012_EN.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download catalogue<span class="icon-preventivo"> </span></a></p>
                 </div>
                    <div class="four columns">
                
@@ -566,7 +485,7 @@ interfaced with any control system </li></ul>
                 <div class="offset-by-one six columns"  style="width:85%;" >
                   <h3 style="padding-left:0px;">Stonepak</h3>
             		<p>The E-VAL fills valve bags with powders or granular materials of small particulate size. Wheat and potato starches, PVC powders, mineral powders, feed meals, screenings, are typical products which can be packed at speed, with accuracy. The packer is particularly beneficial on high-value products, and will give rapid payback on initial capital investment. Depending on the product 500 bags/minute can be obtained from a single packer. Higher Outputs are achieved by installing machines side by side. The E-VAL has been designed to bulk manual and automatic bag placing. </p>
-                     <p style="margin-top:35px;" class="btn-primary1"><a href="pdf/valve-packer/Stonepak_23102012_EN.pdf" target="_blank" class="btn btn-large btn-primary">Download catalogue<span class="icon-preventivo"> </span></a></p>
+                     <p style="margin-top:35px;" class="btn-primary1 btn_pos"><span class="pos_abso" onclick="get_num(12)"></span><a href="pdf/valve-packer/Stonepak_23102012_EN.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download catalogue<span class="icon-preventivo"> </span></a></p>
                      </div>
                       <div style="margin-top:0px;  border-top: 1px solid #ECECEC; float:left;padding:24px 0px 24px 0px;">
                 <div class="offset-by-one six columns" style="width:85%; border-top: 0px solid #ECECEC; " >
@@ -596,7 +515,7 @@ interfaced with any control system </li></ul>
             	<div class="offset-by-one six columns" >
                  <h3 style="padding-left:0px;">TRANSPORATBLE BAGGING SYSTEMS</h3>
             		<p>Transportable Bagging Systems provide operational flex- ibility - giving fast return on capital investment. On-site movement and site-to-site transportation means that upto 120 tonnes of bulk delivered or stockpiled materials can be bagged each hour....at the right time...in the right place. </p>
-                     <p style="margin-top:35px;" class="btn-primary1"><a href="pdf/Mobile-bagging/TBU_23102012_EN.pdf" target="_blank" class="btn btn-large btn-primary">Download catalogue<span class="icon-preventivo"> </span></a></p>
+                     <p style="margin-top:35px;" class="btn-primary1 btn_pos"><span class="pos_abso" onclick="get_num(13)"></span><a href="pdf/Mobile-bagging/TBU_23102012_EN.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download catalogue<span class="icon-preventivo"> </span></a></p>
                 </div>
                 
                  <div class="four columns">
@@ -627,7 +546,7 @@ impurities.</li>
             	<div class="offset-by-one six columns" >
                  <h3 style="padding-left:0px;">VACCUM PACKING SYSTEMS</h3>
             		<p>The right machine for "Bag In Box" application, large packs of free flowing powdery products and 
-all the pouches require to be packed under standing upright condition. </p><p style="margin-top:25px; " class="btn-primary1"><a href="pdf/band_sealer/verticalmodels_Catlouge_New.pdf" target="_blank" class="btn btn-large btn-primary">Download  catalogue<span class="icon-preventivo"> </span></a></p></p>
+all the pouches require to be packed under standing upright condition. </p><p style="margin-top:25px; " class="btn-primary1 btn_pos"><span class="pos_abso" onclick="get_num(14)"></span><a href="pdf/band_sealer/verticalmodels_Catlouge_New.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download  catalogue<span class="icon-preventivo"> </span></a></p></p>
                 </div>
                 <div class="four columns">
                   <h2 class="tisa1" style=" text-align:left;color:#000;padding-left: 16px; margin-bottom:8px;">Standard Features</h2>
@@ -802,75 +721,9 @@ var getconcat = geturl.slice(-2);
 });
 </script>
 
-  <div id="get_infofrm" class="modal">
-  <div class="modal-content">
-    <span class="close">&times;</span>
-    <div>
-        <form id="frm">
-            <input type="text" class="frm_cnt" id="txtfild" name="txtfild" placeholder="Name" required>
-          <input type="email" class="frm_cnt" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" title="Enter valid E-mail address." id="emlfild" name="emlfild" placeholder="Email" required>
-          <input type="text" class="frm_cnt" id="mobilefild" name="mobilefild" maxlength="10" pattern="[0-9]{10,10}$" title="Enter valid contact number." placeholder="Mobile" required>
-          <input type="hidden" id="hid_val">
-          <button type="submit" class="btnsub">submit</button>
-      </form>
-    </div>    
-  </div>
-
-</div>
-<div id="snackbar">Your Information Sent Successfully ...</div>
-<script type="text/javascript">
-
-    $('#frm').submit(function(event) {
-      event.preventDefault();
-      var formdata = $('#frm').serialize();      
-        if ($('#txtfild').val() != "" && $('#emlfild').val() != "" && $('#mobilefild').val() != "") {
-          $.ajax({
-                  url:'../pdf.php',
-                  type:'POST',
-                  data:formdata,
-                  success:function(result){
-                    document.getElementById("get_infofrm").style.display = "none";
-                    show_snack();
-                    var get_data=$("#hid_val").val();
-                    setTimeout(function(){ open_pdf(get_data); }, 3000);
-                    
-                      $("#txtfild, #emlfild, #mobilefild").val("");
-                  } 
-                });
-              }
-       else{
-        alert("All fields are mandatory");
-          }
-    });
-
-</script>
-<script type="text/javascript">
-var modal = document.getElementById("get_infofrm");
-
-function open_pdf(num){
-    $(".btn_1")[num].click();
-}
-
-function get_num(val){
-$("#hid_val").val(val);
-modal.style.display = "block";
-}
-
-$(".close").click(function() {
-   modal.style.display = "none";
- });
-
-window.onclick = function(event) {
-  if (event.target == modal) {
-    modal.style.display = "none";
-  }
-}
-function show_snack() {
-  var x = document.getElementById("snackbar");
-  x.className = "show";
-  setTimeout(function(){ x.className = x.className.replace("show", ""); }, 3000);
-}
-</script>
+<?php
+include("../modal-pdf.php");
+?>
 </body>
 </html>
 <!-- Localized -->
