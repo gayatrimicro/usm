@@ -63,8 +63,8 @@
                     <li class="lis_li_li"><a href="#">METAL DETECTORS</a> <i class="fa fa-angle-right" aria-hidden="true"></i>
                         <div class="list_subcat rig_sid5">
                             <ul>
-                                <li><a href="http://spacegm.com/usm/product/metal-detector.php#a">ONLINE METAL DETECTORS</a></li>
-                                <li><a href="http://spacegm.com/usm/product/metal-detector.php#b">GRAVITY METAL DETECTORS</a></li>
+                                <li><a href="http://spacegm.com/usm/products/metal-detector.php#a">ONLINE METAL DETECTORS</a></li>
+                                <li><a href="http://spacegm.com/usm/products/metal-detector.php#b">GRAVITY METAL DETECTORS</a></li>
                             </ul>
                         </div>
                     </li>
