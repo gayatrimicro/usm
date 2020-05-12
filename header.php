@@ -51,9 +51,9 @@
                                 <li><a href="http://spacegm.com/usm/products/conveyor.php">BELT CONVEYOR</a></li>
                                 <li><a href="http://spacegm.com/usm/products/conveyor.php">SLAT CONVEYOR</a></li>
                                 <li><a href="http://spacegm.com/usm/products/conveyor.php">LORRY LOADERS</a></li>
-                                <li><a href="http://spacegm.com/usm/products/conveyor.php">INCLINED BELT CONVEYOR</a></li>
-                                <li><a href="http://spacegm.com/usm/products/conveyor.php">TELESCOPIC CONVEYOR</a></li>
-                                <li><a href="http://spacegm.com/usm/products/conveyor.php">SCREW CONVEYOR</a></li>
+                                <li><a href="http://spacegm.com/usm/products/conveyor.php#a">INCLINED BELT CONVEYOR</a></li>
+                                <li><a href="http://spacegm.com/usm/products/conveyor.php#a">TELESCOPIC CONVEYOR</a></li>
+                                <li><a href="http://spacegm.com/usm/products/conveyor.php#a">SCREW CONVEYOR</a></li>
                             </ul>
                         </div>
                     </li>

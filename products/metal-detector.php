@@ -153,7 +153,7 @@ h2.tisa1, h3.tisa1 {
 consumers alike as they help to ensure consumer safety by checking products before they’re distributed to the
 public. We provide weighers, food metal detectors as well as many other machines that help businesses increase
 the efficiency of their supply chain while also meeting all of the mandatory standards and regulations.</p>
- <p style="margin-top:15px;" class="btn-primary1 btn_pos"><span class="pos_abso" onclick="get_num(0)"></span><a href="../pdf/Online-Metal-Detector.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download catalogue<span class="icon-preventivo"> </span></a></p>
+ <p style="margin-top:15px;" class="btn-primary1 btn_pos"><span class="pos_abso" onclick="get_num(0)"></span><a href="pdf/Online-Metal-Detector.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download catalogue<span class="icon-preventivo"> </span></a></p>
                 </div>
                 
                     
@@ -181,7 +181,7 @@ the efficiency of their supply chain while also meeting all of the mandatory sta
 <p>Gravity Metal Detectors are designed for use in free-falling applications to inspect a wide range of products
 including flour, rice, cereals, sugar, and powders or grains. Systems are available with a selection of pipe sizes
 and the Diverter Valve reject system is typically used to move contaminated product into a reject tank.</p>
- <p style="margin-top:15px;" class="btn-primary1 btn_pos"><span class="pos_abso" onclick="get_num(1)"></span><a href="../pdf/Gravity-Metal-Detector.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download catalogue<span class="icon-preventivo"> </span></a></p>
+ <p style="margin-top:15px;" class="btn-primary1 btn_pos"><span class="pos_abso" onclick="get_num(1)"></span><a href="pdf/Gravity-Metal-Detector.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download catalogue<span class="icon-preventivo"> </span></a></p>
                 </div>
                 
                

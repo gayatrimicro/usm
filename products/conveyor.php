@@ -130,11 +130,11 @@ h2.tisa1, h3.tisa1 {
         <div id="row" class="tabs" style="height:70px;padding-top: 0px;">
         
         	<div class="icon one-third column" style="width:100%;">
-               <span> <h2 class="tisa" id="a">ACCESSORIES</h2></span>
+               <span> <h2 class="tisa" id="a">CONVEYORS</h2></span>
             </div>
             
             <div class="icon one-third column" style=" margin-top:0px;width:100%;">
-                <h2 class="tisa" id="b">CONVEYORS</h2>
+                <h2 class="tisa" id="b">ACCESSORIES</h2>
             </div>
             
             
@@ -142,42 +142,27 @@ h2.tisa1, h3.tisa1 {
         <div id="panes">
              <div style="float:left; width:100%;" id="a1">
             	<div class="offset-by-one six columns" style="width:100%; text-align:center; padding-left:0px;">
-                 <h3 style="padding-left:0px;">Accessories</h3>
-                          <h2 class="tisa1"><a   style="cursor:pointer;" id="a1a">Bag Turners</a></h2>
-                        <h2 class="tisa1"><a style="cursor:pointer;" id="a1b">Online Check Weighers</a></h2>
+                 <h3 style="padding-left:0px;">CONVEYORS</h3>
+                          <h2 class="tisa1"><a   style="cursor:pointer;" id="a1a">Screw Conveyors</a></h2>
+                        <h2 class="tisa1"><a style="cursor:pointer;" id="a1b">Telescopic Conveyors</a></h2>
+                        <h2 class="tisa1"><a style="cursor:pointer;" id="a1c">Incline Belt Conveyors</a></h2>
                        
                       
                     </ul>
                     
                     <div id="a1a1" style="float:left; text-align:left;border-top: 1px solid #ececec; margin-top:20px; padding-top:48px; display:none;">
-            	<div class="offset-by-one six columns" >
-                 <h3 style="padding-left:0px;">BAG TURNERS</h3>
-            		<p>
-    - Automatic operation<br/>
-    - Delivery of sacks top or bottom leading<br/>
-    - Sac Turners to deliver sacks without change of direction<br/>
-    - Pneumatically operated Sac Deflectors also Nudge wheels and Deflector Bars to discharge sacks at right angles to Sac Sealer Conveyor<br/>
-    - Special devices to meet unusual problem.<br/>
-</p>
-                  
-                </div>
-               <div class="four columns">
-                    <h3 style=" padding-left: 16px;">OUR PRODUCTS IN BAG TURNERS</h3>
-                    <ul class="services1" style="list-style:disc;">
-                        
-   <li>C1 Turner and inclined conveyor</li>
-   <li>Pneumatic Deflector (bottom leading) and Sac-Shaper</li>
-    <li>SACK DEFLECTOR-TL</li>
-    <li>SAC TURNER- C1 WITH ARRESTER</li>
-    <li>SAC-TURNER E</li>
-    <li>SAC TURNER - C1</li>
-    <li>SAC TURNER - D</li>
-    <li>SAC TURNER - L</li>
+            	
+            
 
-                       
-                    </ul>
-                </div>
-            </div>
+                        <div class="offset-by-one six columns" style="width:85%;">
+                         <h3 style="padding-left:0px;">SCREW CONVEYORS</h3>
+                            <p>Industrial vertical screw conveyors are designed for vertically conveying powders and
+spices.</p>
+                              <p style="margin-top:25px; " class="btn-primary1 btn_pos"><span class="pos_abso" onclick="get_num(0)"></span><a href="pdf/Screw Conveyors.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download  catalogue<span class="icon-preventivo"> </span></a></p>
+                        </div>
+
+
+                    </div>
             
             
             
@@ -185,28 +170,23 @@ h2.tisa1, h3.tisa1 {
             
             
             <div id="a1b1" style="float:left; text-align:left;border-top: 1px solid #ececec; margin-top:20px;  padding-top:48px; width:100%; display:none;">
-            	<div class="offset-by-one six columns" style="width:85%;" >
-                 <h3 style="padding-left:0px;">Online Check Weighers</h3>
-            	<p>	For more information on this product <p style="margin-top:25px; " class="btn-primary1"><a href="../contact"  class="btn btn-large btn-primary">contact us<span class="icon-preventivo"> </span></a></p><!--<p>
-   - Function key : tare, N/G, Unit, M+, MR, Enter<br/>
-    - Memory+ & Mr facility<br/>
-    - Software Calibration<br/>
-    - Battery Save mode<br/>
-    - Ac/ Battery function indication<br/>
-    - Battery voltage checking facility on display<br/>
-    - Moisture protection<br/>
-    - Audio visual over load indication<br/>
-   - Counting facility<br/>
-    - Off line set point with audio indication<br/>
-    - Back display / Pole display<br/>
-    - Highly sensitive, accurate, stable & durable<br/>
-    - Battery Backup 6v (24 Hrs.)<br/>
-    - Rs.232 Interface (optional)
 
- </p>-->
-                    
 
-                    
+                <div class="offset-by-one six columns" style="width:85%;">
+                 <h3 style="padding-left:0px;">TELESCOPIC CONVEYORS</h3>
+                    <p>Designed and manufactured to achieve high handling rates, these machines are suitable for loading and unloading trucks, trailers, containers and vans, utilizing a telescopic boom that can extend up to 25 meters at the touch of a button.</p>
+                      <p style="margin-top:25px; " class="btn-primary1 btn_pos"><span class="pos_abso" onclick="get_num(0)"></span><a href="pdf/Telescopic Conveyors.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download  catalogue<span class="icon-preventivo"> </span></a></p>
+                </div>
+               
+            </div>
+
+            <div id="a1c1" style="float:left; text-align:left;border-top: 1px solid #ececec; margin-top:20px;  padding-top:48px; width:100%; display:none;">
+
+
+                <div class="offset-by-one six columns" style="width:85%;">
+                 <h3 style="padding-left:0px;">INCLINE BELT CONVEYORS</h3>
+                    <p>Belt conveyor system can transport materials in bulk and bagged, such as stone, sand, coal, concrete, cement, gravel, fertilizer, mineral ore, limestone, coke, sawdust, wood chip, bulk material, grain, corn flakes, carbon black, etc.</p>
+                      <p style="margin-top:25px; " class="btn-primary1 btn_pos"><span class="pos_abso" onclick="get_num(0)"></span><a href="pdf/Incline Belt Conveyor.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download  catalogue<span class="icon-preventivo"> </span></a></p>
                 </div>
                
             </div>
@@ -240,11 +220,36 @@ h2.tisa1, h3.tisa1 {
             
             
          <div style="margin-top:0px;  border-top: 0px solid #ECECEC; float:left;padding: 0px 0 24px;">
-    	<div class="offset-by-one six columns" style="width:85%;">
-         <h3 style="padding-left:0px;">CONVEYORS</h3>
-    		<p>Available in different types and sizes for various applications.</p>
-              <p style="margin-top:25px; " class="btn-primary1 btn_pos"><span class="pos_abso" onclick="get_num(0)"></span><a href="pdf/conveyor/MODULER_CONYEORS.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download  catalogue<span class="icon-preventivo"> </span></a></p>
-        </div>
+    	
+
+
+        <div class="offset-by-one six columns" >
+                 <h3 style="padding-left:0px;">BAG TURNERS</h3>
+                    <p>
+    - Automatic operation<br/>
+    - Delivery of sacks top or bottom leading<br/>
+    - Sac Turners to deliver sacks without change of direction<br/>
+    - Pneumatically operated Sac Deflectors also Nudge wheels and Deflector Bars to discharge sacks at right angles to Sac Sealer Conveyor<br/>
+    - Special devices to meet unusual problem.<br/>
+</p>
+                  
+                </div>
+               <div class="four columns">
+                    <h3 style=" padding-left: 16px;">OUR PRODUCTS IN BAG TURNERS</h3>
+                    <ul class="services1" style="list-style:disc;">
+                        
+   <li>C1 Turner and inclined conveyor</li>
+   <li>Pneumatic Deflector (bottom leading) and Sac-Shaper</li>
+    <li>SACK DEFLECTOR-TL</li>
+    <li>SAC TURNER- C1 WITH ARRESTER</li>
+    <li>SAC-TURNER E</li>
+    <li>SAC TURNER - C1</li>
+    <li>SAC TURNER - D</li>
+    <li>SAC TURNER - L</li>
+
+                       
+                    </ul>
+                </div>
                 
             </div>
             
