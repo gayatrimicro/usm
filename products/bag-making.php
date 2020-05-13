@@ -134,7 +134,7 @@ h2.tisa1, h3.tisa1 {
                  <h3 style="padding-left:0px;">Bag Making Machines series</h3>
             		<p>Every product deserves the utmost care. CHRONO- STRETCHTM RAINBOW SERIES Stretch Hooder protects goods on pallets against most external influences. Special care is needed once the pallet is stacked. Moisture is the number one cause of loss of value, or even of the complete loss of your products. The only appropriate protection against rain and water spray is a system that is absolutely waterproof. Stretchhoods offer a guaranteed protection, simply because water and dust have no chance whatsoever to reach the products on the pallet.
 </p>
-<p class="btn-primary1 btn_pos" style="margin-top:35px;"><span class="pos_abso" onclick="get_num(0)"></span><a class="btn btn-large btn-primary btn_1" target="_blank" href="pdf/stretch-wrapping/Rainbow_23102012_EN.pdf">Download catalogue<span class="icon-preventivo"> </span></a></p>
+<p class="btn-primary1 btn_pos" style="margin-top:35px;"><!-- <span class="pos_abso" onclick="get_num(0)"></span> --><a class="btn btn-large btn-primary btn_1" target="_blank" href="pdf/stretch-wrapping/Rainbow_23102012_EN.pdf">Download catalogue<span class="icon-preventivo"> </span></a></p>
 
 
 

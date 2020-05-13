@@ -135,7 +135,7 @@ h2.tisa1, h3.tisa1 {
             		<p>The High Integrity versions of the AXON 2 , 5, 10 and 20 'Hot - Air' Continuous Sealers have been designed specifically for the closure of plastic bags and sacks hygiene and / or resistance to harsh environments are of prime importance. In Operation, a continuous stream of precision heated ' Hot Air' is directed simultaneously to both sides of the neck of the plastic bag as it is fed through the sealing head. The plastic becomes semi-molten and is welded firmly by crimping wheels to form a permanent air - tight seal. Air temperature is regulated by an ' intelligent' P.I.D. Controller to ensure seal integrity
 </p>
 
- <p style="margin-top:25px; " class="btn-primary1 btn_pos"><span class="pos_abso" onclick="get_num(2)"></span><a href="pdf/hot-air-sealer/Axon_10_05-Aug-11_1.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download  catalogue<span class="icon-preventivo"> </span></a></p>
+ <p style="margin-top:25px; " class="btn-primary1 btn_pos"><!-- <span class="pos_abso" onclick="get_num(2)"></span> --><a href="pdf/hot-air-sealer/Axon_10_05-Aug-11_1.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download  catalogue<span class="icon-preventivo"> </span></a></p>
  
 
 

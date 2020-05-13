@@ -137,7 +137,7 @@ h2.tisa1, h3.tisa1 {
                 <div class="offset-by-one six columns" style="width:85%;">
                  <h3 style="padding-left:0px;">ONLINE CHECK WEIGHER</h3>
                     <p>Due to the multitude of advanced features and programmable tolerance, using a check weigher scale is different than using a traditional scale. Here, at Union Special Medway, these particular scales are comprised of the highest quality stainless steel, making them extremely durable and more than capable of meeting product safety and regulatory standards. Moreover, these systems provide up to 100 weights per minute(higher speeds available), optional reject mechanisms, and accuracy to + 0.5 gram.</p>
-                      <p class="btn-primary1 btn_pos" style="margin-top:35px;"><span class="pos_abso" onclick="get_num(0)"></span><a class="btn btn-large btn-primary btn_1" target="_blank" href="pdf/Check-Weighers.pdf">Download catalogue<span class="icon-preventivo"> </span></a></p>
+                      <p class="btn-primary1 btn_pos" style="margin-top:35px;"><!-- <span class="pos_abso" onclick="get_num(0)"></span> --><a class="btn btn-large btn-primary btn_1" target="_blank" href="pdf/Check-Weighers.pdf">Download catalogue<span class="icon-preventivo"> </span></a></p>
                 </div>
                
             </div>

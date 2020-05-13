@@ -161,7 +161,7 @@ h2.tisa1, h3.tisa1 {
                 <div class="offset-by-one six columns" style="width:85%;">
                  <h3 style="padding-left:0px;">DRAG CHAIN CONVEYOR</h3>
                     <p>When it comes to continuous conveyors, the drag chain conveyor (also known as the spillage conveyor) is counted among the most tested and important kinds of transport for a wide variety of bulk materials. Our drag chain conveyors are suited for continual horizontal or steeply inclined transport.</p>
-                      <p style="margin-top:25px; " class="btn-primary1 btn_pos"><span class="pos_abso" onclick="get_num(0)"></span><a href="pdf/Drag Chain Conveyors.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download  catalogue<span class="icon-preventivo"> </span></a></p>
+                      <p style="margin-top:25px; " class="btn-primary1 btn_pos"><!-- <span class="pos_abso" onclick="get_num(0)"></span> --><a href="pdf/Drag Chain Conveyors.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download  catalogue<span class="icon-preventivo"> </span></a></p>
                 </div>
                
             </div>
@@ -175,7 +175,7 @@ h2.tisa1, h3.tisa1 {
                 <div class="offset-by-one six columns" style="width:85%;">
                  <h3 style="padding-left:0px;">FLEXIBLE SCREW CONVEYOR</h3>
                     <p>flexible screw conveyors (also known as helix conveyors, screw conveyors, spiral conveyors and auger conveyors) offer efficiency and versatility, conveying bulk materials ranging from large pellets to sub-micron powders - both free-flowing and non - free-flowing - with no separation of blended products.</p>
-                      <p style="margin-top:25px; " class="btn-primary1 btn_pos"><span class="pos_abso" onclick="get_num(1)"></span><a href="pdf/Flexible Screw Conveyors.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download  catalogue<span class="icon-preventivo"> </span></a></p>
+                      <p style="margin-top:25px; " class="btn-primary1 btn_pos"><!-- <span class="pos_abso" onclick="get_num(1)"></span> --><a href="pdf/Flexible Screw Conveyors.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download  catalogue<span class="icon-preventivo"> </span></a></p>
                 </div>
                
             </div>      
@@ -186,7 +186,7 @@ h2.tisa1, h3.tisa1 {
                 <div class="offset-by-one six columns" style="width:85%;">
                  <h3 style="padding-left:0px;">INCLINE BELT CONVEYORS</h3>
                     <p>Belt conveyor system can transport materials in bulk and bagged, such as stone, sand, coal, concrete, cement, gravel, fertilizer, mineral ore, limestone, coke, sawdust, wood chip, bulk material, grain, corn flakes, carbon black, etc.</p>
-                      <p style="margin-top:25px; " class="btn-primary1 btn_pos"><span class="pos_abso" onclick="get_num(2)"></span><a href="pdf/Incline Belt Conveyor.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download  catalogue<span class="icon-preventivo"> </span></a></p>
+                      <p style="margin-top:25px; " class="btn-primary1 btn_pos"><!-- <span class="pos_abso" onclick="get_num(2)"></span> --><a href="pdf/Incline Belt Conveyor.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download  catalogue<span class="icon-preventivo"> </span></a></p>
                 </div>
                
             </div>
@@ -200,7 +200,7 @@ h2.tisa1, h3.tisa1 {
                 <div class="offset-by-one six columns" style="width:85%;">
                  <h3 style="padding-left:0px;">TELESCOPIC CONVEYORS</h3>
                     <p>Designed and manufactured to achieve high handling rates, these machines are suitable for loading and unloading trucks, trailers, containers and vans, utilizing a telescopic boom that can extend up to 25 meters at the touch of a button.</p>
-                      <p style="margin-top:25px; " class="btn-primary1 btn_pos"><span class="pos_abso" onclick="get_num(3)"></span><a href="pdf/Telescopic Conveyors.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download  catalogue<span class="icon-preventivo"> </span></a></p>
+                      <p style="margin-top:25px; " class="btn-primary1 btn_pos"><!-- <span class="pos_abso" onclick="get_num(3)"></span> --><a href="pdf/Telescopic Conveyors.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download  catalogue<span class="icon-preventivo"> </span></a></p>
                 </div>
                
             </div>
@@ -217,7 +217,7 @@ h2.tisa1, h3.tisa1 {
                          <h3 style="padding-left:0px;">SCREW CONVEYORS</h3>
                             <p>Industrial vertical screw conveyors are designed for vertically conveying powders and
 spices.</p>
-                              <p style="margin-top:25px; " class="btn-primary1 btn_pos"><span class="pos_abso" onclick="get_num(4)"></span><a href="pdf/Screw Conveyors.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download  catalogue<span class="icon-preventivo"> </span></a></p>
+                              <p style="margin-top:25px; " class="btn-primary1 btn_pos"><!-- <span class="pos_abso" onclick="get_num(4)"></span> --><a href="pdf/Screw Conveyors.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download  catalogue<span class="icon-preventivo"> </span></a></p>
                         </div>
 
 

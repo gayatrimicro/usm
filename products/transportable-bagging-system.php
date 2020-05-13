@@ -135,7 +135,7 @@ h2.tisa1, h3.tisa1 {
                 <div class="offset-by-one six columns" >
                  <h3 style="padding-left:0px;">TRANSPORATBLE BAGGING SYSTEMS</h3>
                     <p>Transportable Bagging Systems provide operational flex- ibility - giving fast return on capital investment. On-site movement and site-to-site transportation means that upto 120 tonnes of bulk delivered or stockpiled materials can be bagged each hour....at the right time...in the right place. </p>
-                     <p style="margin-top:35px;" class="btn-primary1 btn_pos"><span class="pos_abso" onclick="get_num(13)"></span><a href="pdf/Mobile-bagging/TBU_23102012_EN.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download catalogue<span class="icon-preventivo"> </span></a></p>
+                     <p style="margin-top:35px;" class="btn-primary1 btn_pos"><!-- <span class="pos_abso" onclick="get_num(13)"></span> --><a href="pdf/Mobile-bagging/TBU_23102012_EN.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download catalogue<span class="icon-preventivo"> </span></a></p>
                 </div>
                 
                  <div class="four columns">

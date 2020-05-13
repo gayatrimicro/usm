@@ -154,7 +154,7 @@ than using a traditional scale. Here, at Union Special Medway, these particular 
 highest quality stainless steel, making them extremely durable and more than capable of meeting product safety
 and regulatory standards. Moreover, these systems provide up to 100 weights per minute(higher speeds
 available), optional reject mechanisms, and accuracy to + 0.5 gram</p>
- <p style="margin-top:15px;" class="btn-primary1 btn_pos"><span class="pos_abso" onclick="get_num(0)"></span><a href="pdf/WEIGHER-FFS-Final.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download catalogue<span class="icon-preventivo"> </span></a></p>
+ <p style="margin-top:15px;" class="btn-primary1 btn_pos"><!-- <span class="pos_abso" onclick="get_num(0)"></span> --><a href="pdf/WEIGHER-FFS-Final.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download catalogue<span class="icon-preventivo"> </span></a></p>
                 </div>
                 
                     
@@ -182,7 +182,7 @@ available), optional reject mechanisms, and accuracy to + 0.5 gram</p>
 <p>We offer an exclusive portfolio of filler-weigher’ s for diverse applications. With a range of filling capacities and
 built-in safety features, our filling systems can be integrated easily into existing packaging machines for greater
 efficiency, speed and versatility.</p>
- <p style="margin-top:15px;" class="btn-primary1 btn_pos"><span class="pos_abso" onclick="get_num(1)"></span><a href="pdf/FFS-DOC.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download catalogue<span class="icon-preventivo"> </span></a></p>
+ <p style="margin-top:15px;" class="btn-primary1 btn_pos"><!-- <span class="pos_abso" onclick="get_num(1)"></span> --><a href="pdf/FFS-DOC.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download catalogue<span class="icon-preventivo"> </span></a></p>
                 </div>
                 
                

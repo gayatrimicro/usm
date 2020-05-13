@@ -172,7 +172,7 @@ h2.tisa1, h3.tisa1 {
 
  
    
-     <p style="margin-top:35px;" class="btn-primary1 btn_pos"><span class="pos_abso" onclick="get_num(0)"></span><a href="pdf/BCE/PT1202-GR_EN-DE_01_13_BCE200.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download catalogue<span class="icon-preventivo"> </span></a></p>
+     <p style="margin-top:35px;" class="btn-primary1 btn_pos"><!-- <span class="pos_abso" onclick="get_num(0)"></span> --><a href="pdf/BCE/PT1202-GR_EN-DE_01_13_BCE200.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download catalogue<span class="icon-preventivo"> </span></a></p>
                 </div>
                 
             </div>
@@ -197,7 +197,7 @@ h2.tisa1, h3.tisa1 {
     New thread control system
     Internal forced lubrication</p>
     
-    <p style="margin-top:25px; " class="btn-primary1 btn_pos"><span class="pos_abso" onclick="get_num(1)"></span><a href="pdf/bag-closing/BC200-brochure.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download  catalogue<span class="icon-preventivo"> </span></a></p>
+    <p style="margin-top:25px; " class="btn-primary1 btn_pos"><!-- <span class="pos_abso" onclick="get_num(1)"></span> --><a href="pdf/bag-closing/BC200-brochure.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download  catalogue<span class="icon-preventivo"> </span></a></p>
                 </div>
                 
                <div class="four columns">
@@ -236,7 +236,7 @@ The bag being fed into the machine starts the sewing operation by a feeler contr
 
 When a compressed air supply is available, it is recommended to use machines with elecropneumatcally operated cutters, because of the longer service life of the air cylinder resulting in a higher number of cutting cycles. </p>
 
-       <p style="margin-top:25px; " class="btn-primary1 btn_pos"><span class="pos_abso" onclick="get_num(2)"></span><a href="pdf/bag-closing/80800R_en.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download  catalogue<span class="icon-preventivo"> </span></a></p>
+       <p style="margin-top:25px; " class="btn-primary1 btn_pos"><!-- <span class="pos_abso" onclick="get_num(2)"></span> --><a href="pdf/bag-closing/80800R_en.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download  catalogue<span class="icon-preventivo"> </span></a></p>
                 </div>
                 
               
@@ -260,7 +260,7 @@ stitch length, operation and material.
 - Simplified maintenance
     </p>
 
-       <p style="margin-top:25px; " class="btn-primary1 btn_pos"><span class="pos_abso" onclick="get_num(3)"></span><a href="pdf/bag-closing/BC211UD16-2M_en.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download  catalogue<span class="icon-preventivo"> </span></a></p>
+       <p style="margin-top:25px; " class="btn-primary1 btn_pos"><!-- <span class="pos_abso" onclick="get_num(3)"></span> --><a href="pdf/bag-closing/BC211UD16-2M_en.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download  catalogue<span class="icon-preventivo"> </span></a></p>
                 </div>
                 
               
@@ -279,7 +279,7 @@ stitch length, operation and material.
 - Good accessibility for maintenance. <br/>
 - Automatic reservoir lubrication. </p>
 
- <p style="margin-top:25px;" class="btn-primary1 btn_pos"><span class="pos_abso" onclick="get_num(4)"></span><a href="pdf/bag-closing/150U_24102012_EN.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download catalogue<span class="icon-preventivo"> </span></a></p>
+ <p style="margin-top:25px;" class="btn-primary1 btn_pos"><!-- <span class="pos_abso" onclick="get_num(4)"></span> --><a href="pdf/bag-closing/150U_24102012_EN.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download catalogue<span class="icon-preventivo"> </span></a></p>
  
                 </div>
                 
@@ -298,7 +298,7 @@ stitch length, operation and material.
 - Good accessibility for maintenance.<br/> 
 - Automatic reservoir lubrication.</p>
 
- <p style="margin-top:25px; " class="btn-primary1 btn_pos"><span class="pos_abso" onclick="get_num(5)"></span><a href="pdf/bag-closing/HS2000_24102012_EN.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download catalogue<span class="icon-preventivo"> </span></a></p>
+ <p style="margin-top:25px; " class="btn-primary1 btn_pos"><!-- <span class="pos_abso" onclick="get_num(5)"></span> --><a href="pdf/bag-closing/HS2000_24102012_EN.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download catalogue<span class="icon-preventivo"> </span></a></p>
                 </div>
                 
               

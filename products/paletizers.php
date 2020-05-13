@@ -138,7 +138,7 @@ h2.tisa1, h3.tisa1 {
 
  
    
-     <p style="margin-top:35px;" class="btn-primary1 btn_pos"><span class="pos_abso" onclick="get_num(0)"></span><a href="pdf/Palletizers/RPL_23102012_EN.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download catalogue<span class="icon-preventivo"> </span></a></p>
+     <p style="margin-top:35px;" class="btn-primary1 btn_pos"><!-- <span class="pos_abso" onclick="get_num(0)"></span> --><a href="pdf/Palletizers/RPL_23102012_EN.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download catalogue<span class="icon-preventivo"> </span></a></p>
 
 
 

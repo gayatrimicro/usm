@@ -179,9 +179,9 @@ h2.tisa1, h3.tisa1 {
             	<div class="offset-by-one six columns" >
                  <h3 style="padding-left:0px;">E - Series WEIGHING AND BAGGING SYSTEM</h3>
             		<p>The latest generation of the E SERIES net weighers meets the highest demands for accuracy, reliability and performance. The simple construction and sturdy design ensure safe and accurate operation. Our precision weighing systems are available in single weigher, double weigher combinations or fully integrated in bagging lines for a weighing range from 5 to 50 kg per weighment (larger weighments upon request). </p>
-                    <p style="margin-top:35px;" class="btn-primary1 btn_pos"><span class="pos_abso" onclick="get_num(0)"></span><a href="pdf/E-series/E_23102012_EN.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download E SERIES catalogue<span class="icon-preventivo"> </span></a></p>
-                    <p style="margin-top:25px;" class="btn-primary1 btn_pos"><span class="pos_abso" onclick="get_num(1)"></span><a href="pdf/E-series/E_Series_23102012_EN.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download E 55 SERIES catalogue<span class="icon-preventivo"> </span></a></p>
-                    <p style="margin-top:25px; " class="btn-primary1 btn_pos"><span class="pos_abso" onclick="get_num(2)"></span><a href="pdf/E-series/E55_MB_23102012_EN.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download E 55-MB SERIES catalogue<span class="icon-preventivo"> </span></a></p>
+                    <p style="margin-top:35px;" class="btn-primary1 btn_pos"><!-- <span class="pos_abso" onclick="get_num(0)"></span> --><a href="pdf/E-series/E_23102012_EN.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download E SERIES catalogue<span class="icon-preventivo"> </span></a></p>
+                    <p style="margin-top:25px;" class="btn-primary1 btn_pos"><!-- <span class="pos_abso" onclick="get_num(1)"></span> --><a href="pdf/E-series/E_Series_23102012_EN.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download E 55 SERIES catalogue<span class="icon-preventivo"> </span></a></p>
+                    <p style="margin-top:25px; " class="btn-primary1 btn_pos"><!-- <span class="pos_abso" onclick="get_num(2)"></span> --><a href="pdf/E-series/E55_MB_23102012_EN.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download E 55-MB SERIES catalogue<span class="icon-preventivo"> </span></a></p>
                 </div>
                <div class="four columns">
                     <h3 style=" padding-left: 16px;">Features and benefits</h3>
@@ -308,7 +308,7 @@ The in-built air balancing system is designed to minimize product build up on in
                  <h3 style="padding-left:0px;">Feeders</h3>
             		<p>A complete range of feeders is offered to work along with the E55 in order to suit every type of product. It comprises gravity, gravity high speed, gravity-vibratory, belt, belt high speed, screw and vibratory feeders. </p>
                     
-            <p style="margin-top:25px;" class="btn-primary1 btn_pos"><span class="pos_abso" onclick="get_num(3)"></span><a href="pdf/E-series/E_Series_23102012_EN.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download Feeders catalogue<span class="icon-preventivo"> </span></a></p>
+            <p style="margin-top:25px;" class="btn-primary1 btn_pos"><!-- <span class="pos_abso" onclick="get_num(3)"></span> --><a href="pdf/E-series/E_Series_23102012_EN.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download Feeders catalogue<span class="icon-preventivo"> </span></a></p>
                 </div>
             </div>
             
@@ -351,19 +351,19 @@ Totalising counters may be provided with or without reset. Batch counters can be
 
                  <h3 style="padding-left:0px;">OML Series - open-mouth bagging systems</h3>
 <p>The Chronos BTH OML SERIES product line is versatile. These systems, available in high-speed and compact medium-speed versions, are designed for bagging all types of free flowing materials into open-mouth bags in a broad range of process industries. The leading edge OML SERIES bagging systems, which are ideal for bagging flakes and granules, have been specifically designed to bag dry products in the Food, Feed, Pet Food, Chemicals and Minerals industries.</p>
- <p style="margin-top:15px;" class="btn-primary1 btn_pos"><span class="pos_abso" onclick="get_num(4)"></span><a href="pdf/automatic-bagging-lines/OML_main.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download catalogue<span class="icon-preventivo"> </span></a></p>
+ <p style="margin-top:15px;" class="btn-primary1 btn_pos"><!-- <span class="pos_abso" onclick="get_num(4)"></span> --><a href="pdf/automatic-bagging-lines/OML_main.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download catalogue<span class="icon-preventivo"> </span></a></p>
                 </div>
                 
                 <div class="offset-by-one six columns" style="margin-bottom:20px; width:85%;"  >
                  <h3 style="padding-left:0px;">OML-1140 High-speed open-mouth bagger</h3>
 <p>The OML-1140 high-speed open-mouth bagging system is designed for bagging powdered or granular materials into open-mouth bags. The modular platforms can be configured to suit various applications, to handle all paper, PE, and woven PP bags (pillow-type or gusseted) and can integrate all types of closing systems.</p>
- <p style="margin-top:15px;" class="btn-primary1 btn_pos"><span class="pos_abso" onclick="get_num(5)"></span><a href="pdf/automatic-bagging-lines/OML_1140_13022013_EN_Low.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download catalogue<span class="icon-preventivo"> </span></a></p>
+ <p style="margin-top:15px;" class="btn-primary1 btn_pos"><!-- <span class="pos_abso" onclick="get_num(5)"></span> --><a href="pdf/automatic-bagging-lines/OML_1140_13022013_EN_Low.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download catalogue<span class="icon-preventivo"> </span></a></p>
                 </div>
                 
                 	<div class="offset-by-one six columns" style=" width:85%;" >
                  <h3 style="padding-left:0px;">OML bf series</h3>
 <p>The state-of-the-art OML BF and OMLH BF SERIES bagging systems, which are ideal for bagging both powders and granules, have been specifically designed for hygienic bagging and packaging applications in the Dairy, Bakery, Baby Food and other Food related industries. The system is also suitable for the Pharmaceutical and Chemical Industry.</p>
- <p style="margin-top:15px;" class="btn-primary1 btn_pos"><span class="pos_abso" onclick="get_num(6)"></span><a href="pdf/automatic-bagging-lines/OML-BF_23102012_EN.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download catalogue<span class="icon-preventivo"> </span></a></p>
+ <p style="margin-top:15px;" class="btn-primary1 btn_pos"><!-- <span class="pos_abso" onclick="get_num(6)"></span> --><a href="pdf/automatic-bagging-lines/OML-BF_23102012_EN.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download catalogue<span class="icon-preventivo"> </span></a></p>
                 </div>
                 
                
@@ -373,7 +373,7 @@ Totalising counters may be provided with or without reset. Batch counters can be
                 	<div class="offset-by-one six columns" style=" width:85%;">
                  <h3 style="padding-left:0px;">Panther bagging system </h3>
 <p>The Panther Bagging System is designed for bagging all types of free flowing materials into plastic, paper or poly- woven open-mouth bags. They can handle pillow-type or side gusseted bags of various sizes at capacities of up to 20 bags per minute.</p>
- <p style="margin-top:35px;" class="btn-primary1 btn_pos"><span class="pos_abso" onclick="get_num(7)"></span><a href="pdf/automatic-bagging-lines/Panther_23102012_EN.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download catalogue<span class="icon-preventivo"> </span></a></p>
+ <p style="margin-top:35px;" class="btn-primary1 btn_pos"><!-- <span class="pos_abso" onclick="get_num(7)"></span> --><a href="pdf/automatic-bagging-lines/Panther_23102012_EN.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download catalogue<span class="icon-preventivo"> </span></a></p>
                 </div>
                 
                
@@ -386,7 +386,7 @@ Totalising counters may be provided with or without reset. Batch counters can be
                  <h3 class="tisa1" style=" text-align:left; color:#000; padding-left:0px; ">High speed bagging carousel</h3>
 <p>The K1000 Bagging Carousel is a multi-spout system designed for high-speed bagging of flour and other pow- dered products that need to be densified or compacted. It places, fills and densifies at the same time, which enables achieving production capacities of up to 1,000 bags per hour. The K1000 includes six filling spouts and a bag placer equipped with a high volume blower and suction cup, capable of handling open-mouth bags made of various materials. Densification of the product is performed by three vertical possers.</p>
 
- <p style="margin-top:35px;" class="btn-primary1 btn_pos"><span class="pos_abso" onclick="get_num(8)"></span><a href="pdf/automatic-bagging-lines/K-1000_Series_23102012_EN.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download catalogue<span class="icon-preventivo"> </span></a></p>
+ <p style="margin-top:35px;" class="btn-primary1 btn_pos"><!-- <span class="pos_abso" onclick="get_num(8)"></span> --><a href="pdf/automatic-bagging-lines/K-1000_Series_23102012_EN.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download catalogue<span class="icon-preventivo"> </span></a></p>
                 </div>
                 
                <div class="four columns">
@@ -416,7 +416,7 @@ code reading</li>
 <br>Horticulture: Bark, compost, mulch, peat moss, soils, etc. <br/>
 Organic Products: Wood pellets, pet food, seeds, animal feed, cat litter, etc.<br/>
 Chemicals: Fertiliser, plastic pellets, salt and corrosive materials, etc.</p>
- <p style="margin-top:35px;" class="btn-primary1 btn_pos"><span class="pos_abso" onclick="get_num(9)"></span><a href="pdf/automatic-bagging-lines/VFFS_24102012_EN.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download catalogue<span class="icon-preventivo"> </span></a></p>
+ <p style="margin-top:35px;" class="btn-primary1 btn_pos"><!-- <span class="pos_abso" onclick="get_num(9)"></span> --><a href="pdf/automatic-bagging-lines/VFFS_24102012_EN.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download catalogue<span class="icon-preventivo"> </span></a></p>
                 </div>
                 
                
@@ -427,7 +427,7 @@ Chemicals: Fertiliser, plastic pellets, salt and corrosive materials, etc.</p>
                 	<div class="offset-by-one six columns" style=" width:85%;">
                  <h3 style="padding-left:0px;">tffs series</h3>
 <p>The CHRONO-BAGTM Tubular Form-Fill-Seal bagging system provides a universal, flexible and economical packaging system for tubular Form-Fill-Seal applications at all throughput requirements up to 2200 bags per hour. The CHRONO-BAGTM TFFS SERIES is the ideal system for free flowing as well as difficult to handle bulk materials: Horticulture: Bark, compost, mulch, peat moss, soils, etc.</p>
- <p style="margin-top:35px;" class="btn-primary1 btn_pos"><span class="pos_abso" onclick="get_num(10)"></span><a href="pdf/automatic-bagging-lines/TFFS_24102012_EN.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download catalogue<span class="icon-preventivo"> </span></a></p>
+ <p style="margin-top:35px;" class="btn-primary1 btn_pos"><!-- <span class="pos_abso" onclick="get_num(10)"></span> --><a href="pdf/automatic-bagging-lines/TFFS_24102012_EN.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download catalogue<span class="icon-preventivo"> </span></a></p>
                 </div>
                 
                
@@ -454,7 +454,7 @@ Chemicals: Fertiliser, plastic pellets, salt and corrosive materials, etc.</p>
             	<div class="offset-by-one six columns" >
                  <h3 style="padding-left:0px;">IN PROCESS WEIGHING SYSTEM</h3>
             		<p>In the modern factory, data collection is essential to automate the labor intensive stock reconciliation needs of an efficiently run plant. This means, as an operator, you need to accurately record all material movements in the plant, from intake and right through the process. The AW/VW In-Process Weighers represent your best route to the necessary precision to realize enhanced operating profits. The design ensures that weighing accuracy is not compromised whatever the product being monitored, extracted, controlled or totalized.</p>
-                    <p style="margin-top:35px;" class="btn-primary1 btn_pos"><span class="pos_abso" onclick="get_num(11)"></span><a href="pdf/process-weigher/AW_VW_23102012_EN.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download catalogue<span class="icon-preventivo"> </span></a></p>
+                    <p style="margin-top:35px;" class="btn-primary1 btn_pos"><!-- <span class="pos_abso" onclick="get_num(11)"></span> --><a href="pdf/process-weigher/AW_VW_23102012_EN.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download catalogue<span class="icon-preventivo"> </span></a></p>
                 </div>
                    <div class="four columns">
                
@@ -485,7 +485,7 @@ interfaced with any control system </li></ul>
                 <div class="offset-by-one six columns"  style="width:85%;" >
                   <h3 style="padding-left:0px;">Stonepak</h3>
             		<p>The E-VAL fills valve bags with powders or granular materials of small particulate size. Wheat and potato starches, PVC powders, mineral powders, feed meals, screenings, are typical products which can be packed at speed, with accuracy. The packer is particularly beneficial on high-value products, and will give rapid payback on initial capital investment. Depending on the product 500 bags/minute can be obtained from a single packer. Higher Outputs are achieved by installing machines side by side. The E-VAL has been designed to bulk manual and automatic bag placing. </p>
-                     <p style="margin-top:35px;" class="btn-primary1 btn_pos"><span class="pos_abso" onclick="get_num(12)"></span><a href="pdf/valve-packer/Stonepak_23102012_EN.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download catalogue<span class="icon-preventivo"> </span></a></p>
+                     <p style="margin-top:35px;" class="btn-primary1 btn_pos"><!-- <span class="pos_abso" onclick="get_num(12)"></span> --><a href="pdf/valve-packer/Stonepak_23102012_EN.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download catalogue<span class="icon-preventivo"> </span></a></p>
                      </div>
                       <div style="margin-top:0px;  border-top: 1px solid #ECECEC; float:left;padding:24px 0px 24px 0px;">
                 <div class="offset-by-one six columns" style="width:85%; border-top: 0px solid #ECECEC; " >

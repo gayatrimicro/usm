@@ -155,7 +155,7 @@ various plastic coated papers and foils.</p>
 
 <p>For bags containing more than a few grammes manual support (or convey or when practical) may be required.</p>
 
-       <p style="margin-top:25px; " class="btn-primary1 btn_pos"><span class="pos_abso" onclick="get_num(0)"></span><a href="pdf/band_sealer/Catalogue_Assi_BDV0001.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download BD Series catalogue<span class="icon-preventivo"> </span></a></p>
+       <p style="margin-top:25px; " class="btn-primary1 btn_pos"><!-- <span class="pos_abso" onclick="get_num(0)"></span> --><a href="pdf/band_sealer/Catalogue_Assi_BDV0001.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download BD Series catalogue<span class="icon-preventivo"> </span></a></p>
               
               
 

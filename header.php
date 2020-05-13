@@ -43,7 +43,7 @@
                         </div>
                     </li>
                     <li><a href="http://spacegm.com/usm/products/bag-making.php">BAG MAKING MACHINES</a></li>
-                     <li><a href="http://spacegm.com/usm/products/geo-text.php">GEO TEXT SEWING</a></li>                                  
+                     <li><a href="#">GEO TEXT SEWING</a></li>                                  
                     <li><a href="http://spacegm.com/usm/products/vaccum-packing-system.php">VACCUM PACKING SYSTEMS</a></li>                                
                     <li class="lis_li_li"><a href="#">CONVEYOR & ACCESSORIES</a> <i class="fa fa-angle-right" aria-hidden="true"></i>
                         <div class="list_subcat rig_sid4">
