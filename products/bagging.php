@@ -152,13 +152,13 @@ h2.tisa1, h3.tisa1 {
             </div>
             	
             
-                <div class="icon one-third column" style=" margin-top: 0px;width:100%;">
+                <!-- <div class="icon one-third column" style=" margin-top: 0px;width:100%;">
                 <h2 class="tisa" id="f">TRANSPORATBLE BAGGING SYSTEMS</h2>
             </div>
           
             <div class="icon one-third column" style=" margin-top:0px;width:100%;">
                 <h2 class="tisa" id="g">VACCUM PACKING SYSTEMS</h2>
-            </div>
+            </div> -->
             
             
             
@@ -511,61 +511,13 @@ interfaced with any control system </li></ul>
                 
             </div>
             
-              <div style="margin-top:0px;  border-top: 0px solid #ECECEC; float:left;padding: 0px 0 24px;">
-            	<div class="offset-by-one six columns" >
-                 <h3 style="padding-left:0px;">TRANSPORATBLE BAGGING SYSTEMS</h3>
-            		<p>Transportable Bagging Systems provide operational flex- ibility - giving fast return on capital investment. On-site movement and site-to-site transportation means that upto 120 tonnes of bulk delivered or stockpiled materials can be bagged each hour....at the right time...in the right place. </p>
-                     <p style="margin-top:35px;" class="btn-primary1 btn_pos"><span class="pos_abso" onclick="get_num(13)"></span><a href="pdf/Mobile-bagging/TBU_23102012_EN.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download catalogue<span class="icon-preventivo"> </span></a></p>
-                </div>
-                
-                 <div class="four columns">
-                  <h2 class="tisa1" style=" text-align:left;color:#000;padding-left: 16px; margin-bottom:8px;">Proven Operational reliability</h2>
-     
-     <ul class="services1" style="list-style:disc;"><li>Optional wheel assemblies and tow bar can be fitted to the lower container to facilitate movement of the unit.</li>
-<li>Manual leveling jacks for stability during operation.</li>
-<li>Units supplied with plug and socket connections for site
-electrical and compressed air supplies.</li>
-<li>Optional air compressor and / or alternator set for total independent operation.</li>
-<li>Integral lighting in upper and lower containers to allow 24 hour operation.</li>
-<li>Net bagging weighers, 'bird-beak' bagholders and stitching conveyors are all suited for prolonged, reliable operation with minimal maintenance in extreme environ-
-mental conditions.</li>
-<li>Optional material contact parts to take into account</li>
-cargo properties for optimum equipment longevity. <li>Optional Magnetic grid separators to remove steel
-impurities.</li>
-<li>IBC weigh-filling versions available.</li></ul>
-
-                                </div>
-                
-            </div>
+              
             
             
             
             
             
-                 <div style="margin-top:0px;  border-top: 0px solid #ECECEC; float:left;padding: 0px 0 24px;">
-            	<div class="offset-by-one six columns" >
-                 <h3 style="padding-left:0px;">VACCUM PACKING SYSTEMS</h3>
-            		<p>The right machine for "Bag In Box" application, large packs of free flowing powdery products and 
-all the pouches require to be packed under standing upright condition. </p><p style="margin-top:25px; " class="btn-primary1 btn_pos"><span class="pos_abso" onclick="get_num(14)"></span><a href="pdf/band_sealer/verticalmodels_Catlouge_New.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download  catalogue<span class="icon-preventivo"> </span></a></p></p>
-                </div>
-                <div class="four columns">
-                  <h2 class="tisa1" style=" text-align:left;color:#000;padding-left: 16px; margin-bottom:8px;">Standard Features</h2>
-     
-     <ul class="services1" style="list-style:disc;">
-     <li>PLC Based Control With 4 Line LCD Display From "MITSUBISHI" - Japan
-<li>Stainless Steel Housing NO Sharp Edges, Easy To Wipe.
-<li>Cutout Of Toughned Glass To View The Packaging Process From The Top
-<li>Base Conveyor With Teflon Rollers For Easy Movement Of The Product
-<li>Adjustable Height Of The Base Conveyor For Products Having Different Heights
-<li>Entirely Made From Stainless Steel, Cast Aluminium & Other Non Ferrous Materials.
-<li>Oil Mist Separator To Remove The Oil Mist From Vacuum Pump Exhaust.
-<li>Manual Vacuum Stop Button For Liquids And Semiliquids
-<li>Can Be Conveyorised For Higher Output
-<li>Useful For Moulded Vacuum Packaging For Brick Shaped Packs
-</li></ul>
-
-                                </div>
-            </div>
+                 
             
                
         

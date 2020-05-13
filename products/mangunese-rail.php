@@ -121,78 +121,30 @@ h2.tisa1, h3.tisa1 {
         <div class="container">
             
             <div class="work-heading" style="padding-bottom: 10px;">
-            	<h1>FFS (POUCH PACKING MACHINE)</h1>
+            	<h1>MANGUNESE RAIL</h1>
               
             </div>
         
         
         
-        <div id="row" class="tabs" style="height:80px;padding-top: 0px;">
         
-        	<div class="icon one-third column" style="width:100%;">
-               <span> <h2 class="tisa" id="a">WEIGHERS</h2></span>
-            </div>
-            
-            <div class="icon one-third column" style=" margin-top:0px;width:100%;">
-                <h2 class="tisa" id="b">FFS</h2>
-            </div>
-            
-            
-            
-    	</div>
         <div id="panes">
-             <div style="float:left; width:100%;" id="a1">
-            	
-                <div  style="margin-top:0px;  border-top: 0px solid #ECECEC; float:left;padding:34px 0px 24px 0px;">
           
-          <div class="offset-by-one six columns" style="margin-bottom:20px; width:85%;" >
-                           <h3 style="padding-left:0px;">WEIGHERS</h3>
 
-                 <!-- <h3 style="padding-left:0px;">OML Series - open-mouth bagging systems</h3> -->
-<p>Due to the multitude of advanced features and programmable tolerance, using a check weigher scale is different
-than using a traditional scale. Here, at Union Special Medway, these particular scales are comprised of the
-highest quality stainless steel, making them extremely durable and more than capable of meeting product safety
-and regulatory standards. Moreover, these systems provide up to 100 weights per minute(higher speeds
-available), optional reject mechanisms, and accuracy to + 0.5 gram</p>
- <p style="margin-top:15px;" class="btn-primary1 btn_pos"><span class="pos_abso" onclick="get_num(0)"></span><a href="pdf/WEIGHER-FFS-Final.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download catalogue<span class="icon-preventivo"> </span></a></p>
+            <div id="a1a1" style="float:left; text-align:left; margin-top:20px;  padding-top:48px; width:100%; display:block;">
+
+
+                <div class="offset-by-one six columns" style="width:85%;">
+                 <h3 style="padding-left:0px;">MANGUNESE RAIL</h3>
+                    <p>Union Special Medway supplies grooved flat profiles for chain guides with a minimum order quantity of 100 kg, and we implement comprehensive logistic concepts for extensive annual requirements.</p>
+                      <p class="btn-primary1 btn_pos" style="margin-top:35px;"><span class="pos_abso" onclick="get_num(0)"></span><a class="btn btn-large btn-primary btn_1" target="_blank" href="pdf/Manganese-Rails-for-Conveyors">Download catalogue<span class="icon-preventivo"> </span></a></p>
                 </div>
-                
-                    
-                
                
-                </div>
-
-
-
-
-            </div>
-
-
-
-            <!-- Second FFS -->
-              <div style="margin-top:0px;  border-top: 0px solid #ECECEC; float:left;padding: 0px 0px 24px 0px;">
-                
-                
-          <div  style="margin-top:0px;  border-top: 0px solid #ECECEC; float:left;padding:34px 0px 24px 0px;">
-          
-          <div class="offset-by-one six columns" style="margin-bottom:20px; width:85%;" >
-                           <h3 style="padding-left:0px;">FFS</h3>
-
-                 <!-- <h3 style="padding-left:0px;">OML Series - open-mouth bagging systems</h3> -->
-<p>We offer an exclusive portfolio of filler-weigher’ s for diverse applications. With a range of filling capacities and
-built-in safety features, our filling systems can be integrated easily into existing packaging machines for greater
-efficiency, speed and versatility.</p>
- <p style="margin-top:15px;" class="btn-primary1 btn_pos"><span class="pos_abso" onclick="get_num(1)"></span><a href="pdf/FFS-DOC.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download catalogue<span class="icon-preventivo"> </span></a></p>
-                </div>
-                
-               
-                </div>  
             </div>
         </div>
         
-        </div><!-- END Project Container -->
+        </div>
         
-        <!-- Footer -->
         <div id="footer-container">
         
             <div id="footer">
@@ -292,27 +244,11 @@ efficiency, speed and versatility.</p>
 	}); 
 	
 </script>
-<script type="text/javascript">
-  $("document").ready(function() {
-var geturl=window.location.href;
-var getconcat = geturl.slice(-2);
-    setTimeout(function() {
-        $(getconcat).trigger('click');
-    },10);
 
-    if(getconcat=="#a")
-    {
-      setTimeout(function() {
-        $("#a1a").trigger('click');
-    },10);
-    }
-});
-</script>
-
- 
 <?php
 include("../modal-pdf.php");
 ?>
+  
 </body>
 </html>
 <!-- Localized -->
