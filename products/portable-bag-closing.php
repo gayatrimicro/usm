@@ -132,21 +132,21 @@ h2.tisa1, h3.tisa1 {
           <div style="margin-top:0px;  border-top: 0px solid #ECECEC; float:left;padding: 0px 0 24px;" id="b1">
             	<div class="offset-by-one six columns" >
                  <h3 style="padding-left:0px;">Portable Bag Closing Machines</h3>
-            		<p>The Portable Bag Closing Machines is suitable for any kind of bags, closed either by sewing or heat sealing, as well as for valve bags, independent of the kind of bag material. 
+            		<p>The Portable Bag Closing Machines is suitable for any kind of bags. 
 </p>
 
  <h2 class="tisa1" style=" text-align:left;color:#000;padding-left:0px; margin-bottom:8px; margin-top:10px;">Features and Benefits</h2>
 
      <ul class="services1" style="list-style:disc;"><li>The sturdy high quality ensures long lasting productive use of the machines.</li>
    <li> Easy operation</li>
-    <li>Reducing the number of personnel employed by the alphanumeric diagnostic terminal and the various control devices.</li>
-   <li> PLC integrated with the central control unit facilitates use of the line.</li>
-   <li> The targeted employment of peripheral devices provides fully automatic operation.</li>
-   <li> The composition of the entire system, specified according to particular demands ensures completely fulfilled requirement.</li></ul>
+ 
+   <li> Lightweight</li>
+   </ul>
+					 <p style="margin-top:15px;" class="btn-primary1 btn_pos"><!-- <span class="pos_abso" onclick="get_num(0)"></span> --><a href="pdf/4500 Catalog.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download catalogue<span class="icon-preventivo"> </span></a></p>
                 </div>
                 
                 <div class="four columns">
-                <img src="../img/product/Palletizing.jpg" style="margin:0px 0px 0px 20px;">
+             <!--   <img src="../img/product/Palletizing.jpg" style="margin:0px 0px 0px 20px;">-->
                                 </div>
                 
             </div>

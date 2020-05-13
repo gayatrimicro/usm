@@ -151,7 +151,7 @@ h2.tisa1, h3.tisa1 {
                  <!-- <h3 style="padding-left:0px;">OML Series - open-mouth bagging systems</h3> -->
 <p>At Union Special Medway, we know just how important these quality control machines are to businesses and
 consumers alike as they help to ensure consumer safety by checking products before they’re distributed to the
-public. We provide weighers, food metal detectors as well as many other machines that help businesses increase
+public. We provide food metal detectors as well as many other machines that help businesses increase
 the efficiency of their supply chain while also meeting all of the mandatory standards and regulations.</p>
  <p style="margin-top:15px;" class="btn-primary1 btn_pos"><!-- <span class="pos_abso" onclick="get_num(0)"></span> --><a href="pdf/Online-Metal-Detector.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download catalogue<span class="icon-preventivo"> </span></a></p>
                 </div>

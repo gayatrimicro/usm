@@ -133,7 +133,7 @@ h2.tisa1, h3.tisa1 {
 
             <div style="margin-top:0px;  border-top: 0px solid #ECECEC; float:left;padding: 0px 0 24px;">
                 <div class="offset-by-one six columns" >
-                 <h3 style="padding-left:0px;">VACCUM PACKING SYSTEMS</h3>
+                <!-- <h3 style="padding-left:0px;">VACCUM PACKING SYSTEMS</h3>
                     <p>The right machine for "Bag In Box" application, large packs of free flowing powdery products and all the pouches require to be packed under standing upright condition. </p><p style="margin-top:25px; " class="btn-primary1 btn_pos"><!-- <span class="pos_abso" onclick="get_num(14)"></span> --><a href="pdf/band_sealer/verticalmodels_Catlouge_New.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download  catalogue<span class="icon-preventivo"> </span></a></p>
                 </div>
                 <div class="four columns">

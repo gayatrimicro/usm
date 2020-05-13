@@ -121,7 +121,7 @@ h2.tisa1, h3.tisa1 {
         <div class="container">
             
             <div class="work-heading" style="padding-bottom: 10px;">
-            	<h1>MANGUNESE RAIL</h1>
+            	<h1>MANGANESE RAILS</h1>
               
             </div>
         
@@ -135,8 +135,8 @@ h2.tisa1, h3.tisa1 {
 
 
                 <div class="offset-by-one six columns" style="width:85%;">
-                 <h3 style="padding-left:0px;">MANGUNESE RAIL</h3>
-                    <p>Union Special Medway supplies grooved flat profiles for chain guides with a minimum order quantity of 100 kg, and we implement comprehensive logistic concepts for extensive annual requirements.</p>
+                 <h3 style="padding-left:0px;">MANGANESE RAILS</h3>
+                    <p>Grooved flat profiles for chain guides.</p>
                       <p class="btn-primary1 btn_pos" style="margin-top:35px;"><!-- <span class="pos_abso" onclick="get_num(0)"></span> --><a class="btn btn-large btn-primary btn_1" target="_blank" href="pdf/Manganese-Rails-for-Conveyors.pdf">Download catalogue<span class="icon-preventivo"> </span></a></p>
                 </div>
                

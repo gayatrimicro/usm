@@ -28,8 +28,8 @@
                     <li class="lis_li_li"><a href="#">FFS (POUCH PACKING MACHINE)</a> <i class="fa fa-angle-right" aria-hidden="true"></i>
                         <div class="list_subcat rig_sid3">
                             <ul>
-                                <li><a href="http://spacegm.com/usm/products/ffs.php#a">WEIGHERS</a></li>
-                                <li><a href="http://spacegm.com/usm/products/ffs.php#b">FFS</a></li>
+                                <li><a href="http://spacegm.com/usm/products/ffs.php">WEIGHERS</a></li>
+                                <li><a href="http://spacegm.com/usm/products/ffs.php">FFS</a></li>
                             </ul>
                         </div>
                     </li>  
@@ -43,7 +43,7 @@
                         </div>
                     </li>
                     <li><a href="http://spacegm.com/usm/products/bag-making.php">BAG MAKING MACHINES</a></li>
-                     <li><a href="#">GEO TEXT SEWING</a></li>                                  
+                     <li><a href="http://spacegm.com/usm/products/geo-text.php">GEO TEXT SEWING</a></li>                                  
                     <li><a href="http://spacegm.com/usm/products/vaccum-packing-system.php">VACCUM PACKING SYSTEMS</a></li>                                
                     <li class="lis_li_li"><a href="#">CONVEYOR & ACCESSORIES</a> <i class="fa fa-angle-right" aria-hidden="true"></i>
                         <div class="list_subcat rig_sid4">
@@ -58,7 +58,7 @@
                             </ul>
                         </div>
                     </li>
-                    <li><a href="#">BUCKET ELEVATOR</a></li>
+                    <li><a href="http://spacegm.com/usm/products/bucket-elevator.php">BUCKET ELEVATOR</a></li>
                     <li><a href="http://spacegm.com/usm/products/online-check-weigher.php">ONLINE CHECK WEIGHER</a></li>
                     <li><a href="http://spacegm.com/usm/products/big-bag-dispenser.php">BIG BAG DISPENSER</a></li>
                     <li class="lis_li_li"><a href="#">METAL DETECTORS</a> <i class="fa fa-angle-right" aria-hidden="true"></i>
@@ -72,7 +72,7 @@
                     <li><a href="#">DUST COLLECTORS</a></li>
                     <li><a href="#">THREAD</a></li>
                     <li><a href="#">FUMIGATION SHEET</a></li>
-                    <li><a href="http://spacegm.com/usm/products/mangunese-rail.php">MANGUNESE RAIL</a></li>
+                    <li><a href="http://spacegm.com/usm/products/mangunese-rail.php">MANGANESE RAIL</a></li>
                 </ul>
             </div>
         </li>

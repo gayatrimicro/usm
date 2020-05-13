@@ -149,11 +149,9 @@ h2.tisa1, h3.tisa1 {
                            <h3 style="padding-left:0px;">WEIGHERS</h3>
 
                  <!-- <h3 style="padding-left:0px;">OML Series - open-mouth bagging systems</h3> -->
-<p>Due to the multitude of advanced features and programmable tolerance, using a check weigher scale is different
-than using a traditional scale. Here, at Union Special Medway, these particular scales are comprised of the
-highest quality stainless steel, making them extremely durable and more than capable of meeting product safety
-and regulatory standards. Moreover, these systems provide up to 100 weights per minute(higher speeds
-available), optional reject mechanisms, and accuracy to + 0.5 gram</p>
+<p>We offer an exclusive portfolio of filler-weigher’ s for diverse applications. With a range of filling capacities and
+built-in safety features, our filling systems can be integrated easily into existing packaging machines for greater
+efficiency, speed and versatility</p>
  <p style="margin-top:15px;" class="btn-primary1 btn_pos"><!-- <span class="pos_abso" onclick="get_num(0)"></span> --><a href="pdf/Weigher-FFS-Final.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download catalogue<span class="icon-preventivo"> </span></a></p>
                 </div>
                 
@@ -179,9 +177,9 @@ available), optional reject mechanisms, and accuracy to + 0.5 gram</p>
                            <h3 style="padding-left:0px;">FFS</h3>
 
                  <!-- <h3 style="padding-left:0px;">OML Series - open-mouth bagging systems</h3> -->
-<p>We offer an exclusive portfolio of filler-weigher’ s for diverse applications. With a range of filling capacities and
-built-in safety features, our filling systems can be integrated easily into existing packaging machines for greater
-efficiency, speed and versatility.</p>
+<p>Vertical bagging systems essentially refer to a specific kind of vertical packaging machine also
+known as a vertical form fill seal machine. This particular piece of bagging machinery and equipment is a type of
+automatic packaging unit that is commonly used in the food packaging industry</p>
  <p style="margin-top:15px;" class="btn-primary1 btn_pos"><!-- <span class="pos_abso" onclick="get_num(1)"></span> --><a href="pdf/FFS-DOC.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download catalogue<span class="icon-preventivo"> </span></a></p>
                 </div>
                 

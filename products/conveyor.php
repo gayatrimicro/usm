@@ -174,7 +174,7 @@ h2.tisa1, h3.tisa1 {
 
                 <div class="offset-by-one six columns" style="width:85%;">
                  <h3 style="padding-left:0px;">FLEXIBLE SCREW CONVEYOR</h3>
-                    <p>flexible screw conveyors (also known as helix conveyors, screw conveyors, spiral conveyors and auger conveyors) offer efficiency and versatility, conveying bulk materials ranging from large pellets to sub-micron powders - both free-flowing and non - free-flowing - with no separation of blended products.</p>
+                    <p>Flexible screw conveyors (also known as helix conveyors, screw conveyors, spiral conveyors and auger conveyors) offer efficiency and versatility, conveying bulk materials ranging from large pellets to sub-micron powders - both free-flowing and non - free-flowing - with no separation of blended products.</p>
                       <p style="margin-top:25px; " class="btn-primary1 btn_pos"><!-- <span class="pos_abso" onclick="get_num(1)"></span> --><a href="pdf/Flexible Screw Conveyors.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download  catalogue<span class="icon-preventivo"> </span></a></p>
                 </div>
                

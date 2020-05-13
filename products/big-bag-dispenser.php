@@ -136,7 +136,7 @@ h2.tisa1, h3.tisa1 {
 
                 <div class="offset-by-one six columns" style="width:85%;">
                  <h3 style="padding-left:0px;">BIG BAG DISPENSER</h3>
-                    <p>The unique & versatile USJBO Series lets you empty big bags easily, quickly and precisely, for all big bags/Jumbo Bags. The USJBO lets you empty big bags easily, quickly and precisely.</p>
+                    <p>The unique & versatile USJBO Series lets you empty big bags(JUMBO BAGS) easily, quickly and precisely.</p>
                       <p class="btn-primary1 btn_pos" style="margin-top:35px;"><!-- <span class="pos_abso" onclick="get_num(0)"></span> --><a class="btn btn-large btn-primary btn_1" target="_blank" href="pdf/Big Bag Dispenser.pdf">Download catalogue<span class="icon-preventivo"> </span></a></p>
                 </div>
                

@@ -132,9 +132,8 @@ h2.tisa1, h3.tisa1 {
           <div style="margin-top:0px;  border-top: 0px solid #ECECEC; float:left;padding: 0px 0 24px;" id="b1">
             	<div class="offset-by-one six columns" >
                  <h3 style="padding-left:0px;">Bag Making Machines series</h3>
-            		<p>Every product deserves the utmost care. CHRONO- STRETCHTM RAINBOW SERIES Stretch Hooder protects goods on pallets against most external influences. Special care is needed once the pallet is stacked. Moisture is the number one cause of loss of value, or even of the complete loss of your products. The only appropriate protection against rain and water spray is a system that is absolutely waterproof. Stretchhoods offer a guaranteed protection, simply because water and dust have no chance whatsoever to reach the products on the pallet.
-</p>
-<p class="btn-primary1 btn_pos" style="margin-top:35px;"><!-- <span class="pos_abso" onclick="get_num(0)"></span> --><a class="btn btn-large btn-primary btn_1" target="_blank" href="pdf/stretch-wrapping/Rainbow_23102012_EN.pdf">Download catalogue<span class="icon-preventivo"> </span></a></p>
+            	<p>BAG Making Machines for manufacturing all kinds of bags P.P, JUTE, JUMBO BAGS (Big Bags) & Mesh bags.</p>
+<p class="btn-primary1 btn_pos" style="margin-top:35px;"><!-- <span class="pos_abso" onclick="get_num(0)"></span> --><a class="btn btn-large btn-primary btn_1" target="_blank" href="#">81500A Catalog<span class="icon-preventivo"> </span></a></p>
 
 
 
@@ -143,7 +142,7 @@ h2.tisa1, h3.tisa1 {
       
                 </div>
                 
-                <div class="four columns">
+               <!-- <div class="four columns">
                 <h2 class="tisa1" style=" text-align:left;color:#000;padding-left: 16px; margin-bottom:8px;">Advantages compared to stretch wrap</h2>
    
 <ul class="services1" style="list-style:disc;"><li>Waterproof packaging</li>
@@ -162,7 +161,7 @@ consumption and added stability</li>
 
 </ul>
    
-                                </div>
+                                </div>-->
                 
             </div>
         </div>
