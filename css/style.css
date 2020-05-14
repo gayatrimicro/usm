@@ -362,6 +362,7 @@
 	
 	.four.columns .portrait #hover { height: 90.4%; left: 6.38%; top: 4.8%; width: 87.24%; }
 	.eight.columns .landscape #hover { height: 90.4%; left: 3.09%; top: 4.8%; width: 93.82%; }
+	.twelve.columns .landscape #hover { height: 90.4%; left: 3.09%; top: 4.8%; width: 100%; }
 	
 	.six.columns .landscape #hover { height: 87.24%; left: 4.17%; top: 6.38%; width: 91.7%; }
 	.six.columns .portrait #hover { height: 93.8%; left: 4.17%; top: 3.1%; width: 91.7%; }

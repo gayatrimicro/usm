@@ -102,6 +102,16 @@ h2.tisa1, h3.tisa1 {
 	
  	
 }
+.btn-large {
+    font-size: 15.5px;
+    padding: 6px 8px !important;
+    width: 220px !important;
+    display: inline-block !important;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    text-align: center !important;
+}
    </style>
     
 </head>
@@ -141,16 +151,16 @@ h2.tisa1, h3.tisa1 {
                     <p class="btn-primary1 btn_pos" style="margin-top:35px;"><!-- <span class="pos_abso" onclick="get_num(0)"></span> --><a class="btn btn-large btn-primary btn_1" target="_blank" href="pdf/81500A_  catalog.pdf">81500A Catalog<span class="icon-preventivo"> </span></a></p>
                 </div>
                 <div class="four columns">
-                    <p class="btn-primary1 btn_pos" style="margin-top:35px;"><!-- <span class="pos_abso" onclick="get_num(0)"></span> --><a class="btn btn-large btn-primary btn_1" target="_blank" href="pdf/bm211u23_ul23  catalog.pdf">bm211u23_ul23 Catalog<span class="icon-preventivo"> </span></a></p>
+                    <p class="btn-primary1 btn_pos" style="margin-top:35px;"><!-- <span class="pos_abso" onclick="get_num(0)"></span> --><a class="btn btn-large btn-primary btn_1" target="_blank" href="pdf/bm211u23_ul23  catalog.pdf">bm211u23 Catalog<span class="icon-preventivo"> </span></a></p>
                 </div>
                 <div class="four columns">
-                    <p class="btn-primary1 btn_pos" style="margin-top:35px;"><!-- <span class="pos_abso" onclick="get_num(0)"></span> --><a class="btn btn-large btn-primary btn_1" target="_blank" href="pdf/bm213c2_cd2_c1hlu_cd1hlu  catalog.pdf">bm213c2_cd2_c1hlu_cd1hlu Catalog<span class="icon-preventivo"> </span></a></p>
+                    <p class="btn-primary1 btn_pos" style="margin-top:35px;"><!-- <span class="pos_abso" onclick="get_num(0)"></span> --><a class="btn btn-large btn-primary btn_1" target="_blank" href="pdf/bm213c2_cd2_c1hlu_cd1hlu  catalog.pdf">bm213c2 Catalog<span class="icon-preventivo"> </span></a></p>
                 </div>
                 <div class="four columns">
                     <p class="btn-primary1 btn_pos" style="margin-top:35px;"><!-- <span class="pos_abso" onclick="get_num(0)"></span> --><a class="btn btn-large btn-primary btn_1" target="_blank" href="pdf/39500TYA catalog.pdf">39500TYA Catalog<span class="icon-preventivo"> </span></a></p>
                 </div>
                 <div class="four columns">
-                    <p class="btn-primary1 btn_pos" style="margin-top:35px;"><!-- <span class="pos_abso" onclick="get_num(0)"></span> --><a class="btn btn-large btn-primary btn_1" target="_blank" href="pdf/53700BZ4031_A catalog.pdf">53700BZ4031_A Catalog<span class="icon-preventivo"> </span></a></p>
+                    <p class="btn-primary1 btn_pos" style="margin-top:35px;"><!-- <span class="pos_abso" onclick="get_num(0)"></span> --><a class="btn btn-large btn-primary btn_1" target="_blank" href="pdf/53700BZ4031_A catalog.pdf">53700BZ4031 Catalog<span class="icon-preventivo"> </span></a></p>
                 </div>
                 <div class="four columns">
                     <p class="btn-primary1 btn_pos" style="margin-top:35px;"><!-- <span class="pos_abso" onclick="get_num(0)"></span> --><a class="btn btn-large btn-primary btn_1" target="_blank" href="pdf/56100 catalog.pdf">56100 Catalog<span class="icon-preventivo"> </span></a></p>
@@ -162,10 +172,10 @@ h2.tisa1, h3.tisa1 {
                     <p class="btn-primary1 btn_pos" style="margin-top:35px;"><!-- <span class="pos_abso" onclick="get_num(0)"></span> --><a class="btn btn-large btn-primary btn_1" target="_blank" href="pdf/80700c3 catalog.pdf">80700c3 Catalog<span class="icon-preventivo"> </span></a></p>
                 </div>
                 <div class="four columns">
-                    <p class="btn-primary1 btn_pos" style="margin-top:35px;"><!-- <span class="pos_abso" onclick="get_num(0)"></span> --><a class="btn btn-large btn-primary btn_1" target="_blank" href="pdf/81200_HER_en_  catalog.pdf">81200_HER_en_ Catalog<span class="icon-preventivo"> </span></a></p>
+                    <p class="btn-primary1 btn_pos" style="margin-top:35px;"><!-- <span class="pos_abso" onclick="get_num(0)"></span> --><a class="btn btn-large btn-primary btn_1" target="_blank" href="pdf/81200_HER_en_  catalog.pdf">81200 Catalog<span class="icon-preventivo"> </span></a></p>
                 </div>
                 <div class="four columns">
-                    <p class="btn-primary1 btn_pos" style="margin-top:35px;"><!-- <span class="pos_abso" onclick="get_num(0)"></span> --><a class="btn btn-large btn-primary btn_1" target="_blank" href="pdf/81300a_a2_b_b2_  catalog.pdf">81300a_a2_b_b2_ Catalog<span class="icon-preventivo"> </span></a></p>
+                    <p class="btn-primary1 btn_pos" style="margin-top:35px;"><!-- <span class="pos_abso" onclick="get_num(0)"></span> --><a class="btn btn-large btn-primary btn_1" target="_blank" href="pdf/81300a_a2_b_b2_  catalog.pdf">81300a Catalog<span class="icon-preventivo"> </span></a></p>
                 </div>
 
 

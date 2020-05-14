@@ -20,7 +20,7 @@
                                 <li><a href="http://spacegm.com/usm/products/bagging.php#c">IN PROCESS WEIGHING SYSTEM</a></li>
                                 <li><a href="http://spacegm.com/usm/products/bagging.php#d">VALVE (TYPE) BAGGING SYSTEMS</a></li>
                                 <li><a href="http://spacegm.com/usm/products/bagging.php#e">FIBC (BULK BAG FILLING SYSTEM)</a></li>
-                                <li><a href="http://spacegm.com/usm/products/bagging.php">JUMBO BIG BAG FILLING</a></li>
+                                <!-- <li><a href="http://spacegm.com/usm/products/bagging.php">JUMBO BIG BAG FILLING</a></li> -->
                             </ul>
                         </div>
                     </li>
@@ -82,9 +82,9 @@
                     <li><a href="http://spacegm.com/usm/products/vaccum-packing-system.php">VACCUM PACKING SYSTEMS</a></li> 
                     <li><a href="http://spacegm.com/usm/products/big-bag-dispenser.php">BIG BAG DISPENSER</a></li>
                     
-                    <li><a href="#">DUST COLLECTORS</a></li>
-                    <li><a href="#">THREAD</a></li>
-                    <li><a href="#">FUMIGATION SHEET</a></li>
+                    <li><a href="http://spacegm.com/usm/products/dust-collector.php">DUST COLLECTORS</a></li>
+                    <li><a href="http://spacegm.com/usm/products/thread.php">THREAD</a></li>
+                    <!-- <li><a href="#">FUMIGATION SHEET</a></li> -->
                     <li><a href="http://spacegm.com/usm/products/manganese-rail.php">MANGANESE RAIL</a></li>
                 </ul>
             </div>
