@@ -121,81 +121,43 @@ h2.tisa1, h3.tisa1 {
         <div class="container">
             
             <div class="work-heading" style="padding-bottom: 10px;">
-            	<h1>Bag Making Machines</h1>
+            	<h1>SECONDARY BAGGING (BAG INBAG)</h1>
               
             </div>
-        <style type="text/css">
-            #panes .four.columns {
-                border-left: none;
-            }
-        </style>
+        
         
         
         
         <div id="panes">
-          <div style="margin-top:0px;  border-top: 0px solid #ECECEC; float:left;padding: 0px 0 24px;" id="b1">
-            	<div class="offset-by-one six columns" style="width: 100%;">
-                 <h3 style="padding-left:0px;">Bag Making Machines series</h3>
-            	<p>BAG Making Machines for manufacturing all kinds of bags P.P, JUTE, JUMBO BAGS (Big Bags) & Mesh bags.</p>
-                <div class="four columns">
-                    <p class="btn-primary1 btn_pos" style="margin-top:35px;"><!-- <span class="pos_abso" onclick="get_num(0)"></span> --><a class="btn btn-large btn-primary btn_1" target="_blank" href="pdf/81500A_  catalog.pdf">81500A Catalog<span class="icon-preventivo"> </span></a></p>
-                </div>
-                <div class="four columns">
-                    <p class="btn-primary1 btn_pos" style="margin-top:35px;"><!-- <span class="pos_abso" onclick="get_num(0)"></span> --><a class="btn btn-large btn-primary btn_1" target="_blank" href="pdf/bm211u23_ul23  catalog.pdf">bm211u23_ul23 Catalog<span class="icon-preventivo"> </span></a></p>
-                </div>
-                <div class="four columns">
-                    <p class="btn-primary1 btn_pos" style="margin-top:35px;"><!-- <span class="pos_abso" onclick="get_num(0)"></span> --><a class="btn btn-large btn-primary btn_1" target="_blank" href="pdf/bm213c2_cd2_c1hlu_cd1hlu  catalog.pdf">bm213c2_cd2_c1hlu_cd1hlu Catalog<span class="icon-preventivo"> </span></a></p>
-                </div>
-                <div class="four columns">
-                    <p class="btn-primary1 btn_pos" style="margin-top:35px;"><!-- <span class="pos_abso" onclick="get_num(0)"></span> --><a class="btn btn-large btn-primary btn_1" target="_blank" href="pdf/39500TYA catalog.pdf">39500TYA Catalog<span class="icon-preventivo"> </span></a></p>
-                </div>
-                <div class="four columns">
-                    <p class="btn-primary1 btn_pos" style="margin-top:35px;"><!-- <span class="pos_abso" onclick="get_num(0)"></span> --><a class="btn btn-large btn-primary btn_1" target="_blank" href="pdf/53700BZ4031_A catalog.pdf">53700BZ4031_A Catalog<span class="icon-preventivo"> </span></a></p>
-                </div>
-                <div class="four columns">
-                    <p class="btn-primary1 btn_pos" style="margin-top:35px;"><!-- <span class="pos_abso" onclick="get_num(0)"></span> --><a class="btn btn-large btn-primary btn_1" target="_blank" href="pdf/56100 catalog.pdf">56100 Catalog<span class="icon-preventivo"> </span></a></p>
-                </div>
-                <div class="four columns">
-                    <p class="btn-primary1 btn_pos" style="margin-top:35px;"><!-- <span class="pos_abso" onclick="get_num(0)"></span> --><a class="btn btn-large btn-primary btn_1" target="_blank" href="pdf/80200 catalog.pdf">80200 Catalog<span class="icon-preventivo"> </span></a></p>
-                </div>
-                <div class="four columns">
-                    <p class="btn-primary1 btn_pos" style="margin-top:35px;"><!-- <span class="pos_abso" onclick="get_num(0)"></span> --><a class="btn btn-large btn-primary btn_1" target="_blank" href="pdf/80700c3 catalog.pdf">80700c3 Catalog<span class="icon-preventivo"> </span></a></p>
-                </div>
-                <div class="four columns">
-                    <p class="btn-primary1 btn_pos" style="margin-top:35px;"><!-- <span class="pos_abso" onclick="get_num(0)"></span> --><a class="btn btn-large btn-primary btn_1" target="_blank" href="pdf/81200_HER_en_  catalog.pdf">81200_HER_en_ Catalog<span class="icon-preventivo"> </span></a></p>
-                </div>
-                <div class="four columns">
-                    <p class="btn-primary1 btn_pos" style="margin-top:35px;"><!-- <span class="pos_abso" onclick="get_num(0)"></span> --><a class="btn btn-large btn-primary btn_1" target="_blank" href="pdf/81300a_a2_b_b2_  catalog.pdf">81300a_a2_b_b2_ Catalog<span class="icon-preventivo"> </span></a></p>
-                </div>
+          
+
+            <div id="a1a1" style="float:left; text-align:left; margin-top:20px;  padding-top:48px; width:100%; display:block;">
 
 
-
-
-
-      
+                <div class="offset-by-one six columns" style="width:85%;">
+                 <h3 style="padding-left:0px;">SECONDARY BAGGING (BAG INBAG)</h3>
+                    <p>
+                        <ul>
+                            <li>
+                                To pack pouches of grains and powders into pre - formed bags. 
+                            </li>
+                            <li>
+                                Replace high cost of Cartoning and Bailing.
+                            </li>
+                            <li>
+                                Overcomes manual and disorderly packaging.
+                            </li>
+                            <li>
+                                This Automates the Entire secondary packaging.
+                            </li>
+                            <li>
+                                Saves labour, time and space.
+                            </li>
+                        </ul>
+                    </p>
+                      <p class="btn-primary1 btn_pos" style="margin-top:35px;"><!-- <span class="pos_abso" onclick="get_num(0)"></span> --><a class="btn btn-large btn-primary btn_1" target="_blank" href="pdf/Secondary Bagging.pdf">Download catalogue<span class="icon-preventivo"> </span></a></p>
                 </div>
-                
-               <!-- <div class="four columns">
-                <h2 class="tisa1" style=" text-align:left;color:#000;padding-left: 16px; margin-bottom:8px;">Advantages compared to stretch wrap</h2>
-   
-<ul class="services1" style="list-style:disc;"><li>Waterproof packaging</li>
-<li>Barcodes remain properly visible</li>
-<li>No loose foil underneath the pallet</li>
-<li>Constant minimal foil consumption</li>
-<li>Option of running the foil underneath the pallet
-for added stability</li>
-<li>Option of stretching vertically for lower foil
-consumption and added stability</li>
-<li>Only one type of material, no top-sheet foil required 
-<li>Machine requires hardly any maintenance
-<li>800 to 1,000 wrapped pallets per roll of foil
-<li>Option of perforated foil to prevent condensation
-<li>Option of creating an 'open cover' or a band of foil around part of the pallet
-
-</ul>
-   
-                                </div>-->
-                
+               
             </div>
         </div>
         

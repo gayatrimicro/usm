@@ -146,9 +146,13 @@ h2.tisa1, h3.tisa1 {
                           
                         <h2 class="tisa1"><a style="cursor:pointer;" id="a1a">DRAG CHAIN CONVEYOR</a></h2>
                         <h2 class="tisa1"><a style="cursor:pointer;" id="a1b">FLEXIBLE SCREW CONVEYOR</a></h2>
-                        <h2 class="tisa1"><a style="cursor:pointer;" id="a1c">Incline Belt Conveyors</a></h2>
-                        <h2 class="tisa1"><a style="cursor:pointer;" id="a1d">Telescopic Conveyors</a></h2>
-                        <h2 class="tisa1"><a   style="cursor:pointer;" id="a1e">Screw Conveyors</a></h2>
+                        <h2 class="tisa1"><a style="cursor:pointer;" id="a1f">STANDARD CONVEYOR</a></h2>
+                        <h2 class="tisa1"><a style="cursor:pointer;" id="a1g">LORRY LOADERS</a></h2>
+
+
+                        <h2 class="tisa1"><a style="cursor:pointer;" id="a1c">INCLINED BELT CONVEYOR</a></h2>
+                        <h2 class="tisa1"><a style="cursor:pointer;" id="a1d">TELESCOPIC CONVEYOR</a></h2>
+                        <h2 class="tisa1"><a   style="cursor:pointer;" id="a1e">SCREW CONVEYOR</a></h2>
                        
                       
                     </ul>
@@ -218,6 +222,34 @@ h2.tisa1, h3.tisa1 {
                             <p>Industrial vertical screw conveyors are designed for vertically conveying powders and
 spices.</p>
                               <p style="margin-top:25px; " class="btn-primary1 btn_pos"><!-- <span class="pos_abso" onclick="get_num(4)"></span> --><a href="pdf/Screw Conveyors.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download  catalogue<span class="icon-preventivo"> </span></a></p>
+                        </div>
+
+
+                    </div>
+
+
+                    <div id="a1f1" style="float:left; text-align:left;border-top: 1px solid #ececec; margin-top:20px; padding-top:48px; display:none;">
+                
+            
+
+                        <div class="offset-by-one six columns" style="width:85%;">
+                         <h3 style="padding-left:0px;">STANDARD CONVEYOR</h3>
+                            <p>Common conveyor types are belt conveyors, roller conveyors, motorized roller conveyors and overhead conveyors. They can be categorized as floor conveyors (mounted on the floor) or overhead conveyors. They are used to move products, create buffers and deliver products in sequence in a production process.</p>
+                              <p style="margin-top:25px; " class="btn-primary1 btn_pos"><!-- <span class="pos_abso" onclick="get_num(4)"></span> --><a href="pdf/Conveyors.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download  catalogue<span class="icon-preventivo"> </span></a></p>
+                        </div>
+
+
+                    </div>
+
+
+                    <div id="a1g1" style="float:left; text-align:left;border-top: 1px solid #ececec; margin-top:20px; padding-top:48px; display:none;">
+                
+            
+
+                        <div class="offset-by-one six columns" style="width:85%;">
+                         <h3 style="padding-left:0px;">LORRY LOADERS</h3>
+                            <p>Quick and efficient transportation of bags, gunny bags. oiI Tins, small oil drums, cotton ropes, crates etc.</p>
+                              <p style="margin-top:25px; " class="btn-primary1 btn_pos"><!-- <span class="pos_abso" onclick="get_num(4)"></span> --><a href="pdf/Truck Loader.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download  catalogue<span class="icon-preventivo"> </span></a></p>
                         </div>
 
 
@@ -342,7 +374,7 @@ spices.</p>
 	$("div.tabs").tabs("div#panes > div");
 	
 	 $("#a1a").click(function() {
-		    $("#a1b1,#a1c1,#a1d1,#a1e1").hide();
+		    $("#a1b1,#a1c1,#a1d1,#a1e1,#a1f1,#a1g1").hide();
 		 $("#a1a1").show();
 		$("html, body").stop().animate({
 			
@@ -351,7 +383,7 @@ spices.</p>
   });
   
    $("#a1b").click(function() {
-	   $("#a1a1,#a1c1,#a1d1,#a1e1").hide();
+	   $("#a1a1,#a1c1,#a1d1,#a1e1,#a1f1,#a1g1").hide();
 		 $("#a1b1").show();
 		$("html, body").stop().animate({
 			
@@ -359,25 +391,40 @@ spices.</p>
 			}, 1200);
   });
   $("#a1c").click(function() {
-	   $("#a1a1,#a1b1,#a1d1,#a1e1").hide();
+	   $("#a1a1,#a1b1,#a1d1,#a1e1,#a1f1,#a1g1").hide();
 		 $("#a1c1").show();
 		$("html, body").stop().animate({
 			scrollTop: $("#a1").offset().top
 			}, 1200);
   });
     $("#a1d").click(function() {
-	   $("#a1a1,#a1b1,#a1c1,#a1e1").hide();
-		 $("#a1d1").show();
-		$("html, body").stop().animate({
-			scrollTop: $("#a1").offset().top
-			}, 1200);
+       $("#a1a1,#a1b1,#a1c1,#a1e1,#a1f1,#a1g1").hide();
+         $("#a1d1").show();
+        $("html, body").stop().animate({
+            scrollTop: $("#a1").offset().top
+            }, 1200);
   });
     $("#a1e").click(function() {
-	   $("#a1a1,#a1b1,#a1c1,#a1d1").hide();
-		 $("#a1e1").show();
-		$("html, body").stop().animate({
-			scrollTop: $("#a1").offset().top
-			}, 1200);
+       $("#a1a1,#a1b1,#a1c1,#a1d1,#a1f1,#a1g1").hide();
+         $("#a1e1").show();
+        $("html, body").stop().animate({
+            scrollTop: $("#a1").offset().top
+            }, 1200);
+  });
+
+    $("#a1f").click(function() {
+       $("#a1a1,#a1b1,#a1c1,#a1e1,#a1f1,#a1g1").hide();
+         $("#a1f1").show();
+        $("html, body").stop().animate({
+            scrollTop: $("#a1").offset().top
+            }, 1200);
+  });
+    $("#a1g").click(function() {
+       $("#a1a1,#a1b1,#a1c1,#a1d1,#a1f1,#a1g1").hide();
+         $("#a1g1").show();
+        $("html, body").stop().animate({
+            scrollTop: $("#a1").offset().top
+            }, 1200);
   });
   
   

@@ -33,7 +33,8 @@
                             </ul>
                         </div>
                     </li>  
-                    <li><a href="#">BAG INBAG (SECONDARY BAGGING)</a></li>                                                             
+                    <li><a href="#">SECONDARY BAGGING (BAG INBAG)</a></li>
+                                                                              
                     <li class="lis_li_li"><a href="#">BAG CLOSING SYSTEM</a> <i class="fa fa-angle-right" aria-hidden="true"></i>
                         <div class="list_subcat rig_sid2">
                             <ul>
@@ -42,15 +43,25 @@
                             </ul>
                         </div>
                     </li>
+                    <li class="lis_li_li"><a href="#">Sealers</a> <i class="fa fa-angle-right" aria-hidden="true"></i>
+                        <div class="list_subcat rig_sid6">
+                            <ul>
+                                <li><a href="http://spacegm.com/usm/products/hot-air-sealer.php">Hot Air Sealers</a></li>
+                                <li><a href="http://spacegm.com/usm/products/band_sealer.php">Band Sealers</a></li>
+                            </ul>
+                        </div>
+                    </li> 
+                    <li><a href="http://spacegm.com/usm/products/paletizers.php">PALLETIZERS</a></li>
+                    <li><a href="http://spacegm.com/usm/products/stretch-wrapping.php">STRETCH WRAPPERS</a></li>
                     <li><a href="http://spacegm.com/usm/products/bag-making.php">BAG MAKING MACHINES</a></li>
-                     <li><a href="http://spacegm.com/usm/products/geo-text.php">GEO TEXT SEWING</a></li>                                  
-                    <li><a href="http://spacegm.com/usm/products/vaccum-packing-system.php">VACCUM PACKING SYSTEMS</a></li>                                
+                    <li><a href="http://spacegm.com/usm/products/geo-text.php">GEO TEXT SEWING</a></li>
+                    <li><a href="http://spacegm.com/usm/products/carpet-sewing.php">CARPET SEWING</a></li>                               
                     <li class="lis_li_li"><a href="#">CONVEYOR & ACCESSORIES</a> <i class="fa fa-angle-right" aria-hidden="true"></i>
                         <div class="list_subcat rig_sid4">
                             <ul>
                                 <li><a href="http://spacegm.com/usm/products/conveyor.php">DRAG CHAIN CONVEYOR</a></li>
                                 <li><a href="http://spacegm.com/usm/products/conveyor.php">FLEXIBLE SCREW CONVEYOR</a></li>
-                                <li><a href="http://spacegm.com/usm/products/conveyor.php">FLAT CONVEYOR</a></li>
+                                <li><a href="http://spacegm.com/usm/products/conveyor.php">STANDARD CONVEYOR</a></li>
                                 <li><a href="http://spacegm.com/usm/products/conveyor.php">LORRY LOADERS</a></li>
                                 <li><a href="http://spacegm.com/usm/products/conveyor.php#a">INCLINED BELT CONVEYOR</a></li>
                                 <li><a href="http://spacegm.com/usm/products/conveyor.php#a">TELESCOPIC CONVEYOR</a></li>
@@ -60,7 +71,6 @@
                     </li>
                     <li><a href="http://spacegm.com/usm/products/bucket-elevator.php">BUCKET ELEVATOR</a></li>
                     <li><a href="http://spacegm.com/usm/products/online-check-weigher.php">ONLINE CHECK WEIGHER</a></li>
-                    <li><a href="http://spacegm.com/usm/products/big-bag-dispenser.php">BIG BAG DISPENSER</a></li>
                     <li class="lis_li_li"><a href="#">METAL DETECTORS</a> <i class="fa fa-angle-right" aria-hidden="true"></i>
                         <div class="list_subcat rig_sid5">
                             <ul>
@@ -69,6 +79,9 @@
                             </ul>
                         </div>
                     </li>
+                    <li><a href="http://spacegm.com/usm/products/vaccum-packing-system.php">VACCUM PACKING SYSTEMS</a></li> 
+                    <li><a href="http://spacegm.com/usm/products/big-bag-dispenser.php">BIG BAG DISPENSER</a></li>
+                    
                     <li><a href="#">DUST COLLECTORS</a></li>
                     <li><a href="#">THREAD</a></li>
                     <li><a href="#">FUMIGATION SHEET</a></li>

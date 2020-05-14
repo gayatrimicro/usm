@@ -913,6 +913,10 @@
     right: -230px;
     top: -12px;
 }
+.rig_sid6 {
+    right: -155px;
+    top: -12px;
+}
 /* The Modal Start (background) */
 .modal {
   display: none; /* Hidden by default */
@@ -1123,6 +1127,11 @@
     padding: 0 !important;
 }
 .rig_sid5
+{
+	 position: unset;
+	 background-color: #3c3c3c;
+}
+.rig_sid6
 {
 	 position: unset;
 	 background-color: #3c3c3c;
