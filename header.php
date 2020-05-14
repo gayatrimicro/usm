@@ -33,7 +33,7 @@
                             </ul>
                         </div>
                     </li>  
-                    <li><a href="#">SECONDARY BAGGING (BAG INBAG)</a></li>
+                    <li><a href="http://spacegm.com/usm/products/secondary-bagging.php">SECONDARY BAGGING (BAG INBAG)</a></li>
                                                                               
                     <li class="lis_li_li"><a href="#">BAG CLOSING SYSTEM</a> <i class="fa fa-angle-right" aria-hidden="true"></i>
                         <div class="list_subcat rig_sid2">
