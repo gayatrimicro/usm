@@ -85,7 +85,7 @@
                     <li><a href="#">DUST COLLECTORS</a></li>
                     <li><a href="#">THREAD</a></li>
                     <li><a href="#">FUMIGATION SHEET</a></li>
-                    <li><a href="http://spacegm.com/usm/products/mangunese-rail.php">MANGANESE RAIL</a></li>
+                    <li><a href="http://spacegm.com/usm/products/manganese-rail.php">MANGANESE RAIL</a></li>
                 </ul>
             </div>
         </li>

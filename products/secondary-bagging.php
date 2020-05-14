@@ -136,25 +136,7 @@ h2.tisa1, h3.tisa1 {
 
                 <div class="offset-by-one six columns" style="width:85%;">
                  <h3 style="padding-left:0px;">SECONDARY BAGGING (BAG INBAG)</h3>
-                    <p>
-                        <ul>
-                            <li>
-                                To pack pouches of grains and powders into pre - formed bags. 
-                            </li>
-                            <li>
-                                Replace high cost of Cartoning and Bailing.
-                            </li>
-                            <li>
-                                Overcomes manual and disorderly packaging.
-                            </li>
-                            <li>
-                                This Automates the Entire secondary packaging.
-                            </li>
-                            <li>
-                                Saves labour, time and space.
-                            </li>
-                        </ul>
-                    </p>
+                    
                       <p class="btn-primary1 btn_pos" style="margin-top:35px;"><!-- <span class="pos_abso" onclick="get_num(0)"></span> --><a class="btn btn-large btn-primary btn_1" target="_blank" href="pdf/Secondary Bagging.pdf">Download catalogue<span class="icon-preventivo"> </span></a></p>
                 </div>
                

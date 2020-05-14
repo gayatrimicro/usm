@@ -127,7 +127,7 @@ h2.tisa1, h3.tisa1 {
         
         
         
-        <div id="row" class="tabs" style="height:80px;padding-top: 0px;">
+        <!-- <div id="row" class="tabs" style="height:80px;padding-top: 0px;">
         
         	<div class="icon one-third column" style="width:100%;">
                <span> <h2 class="tisa" id="a">WEIGHERS</h2></span>
@@ -139,7 +139,7 @@ h2.tisa1, h3.tisa1 {
             
             
             
-    	</div>
+    	</div> -->
         <div id="panes">
              <div style="float:left; width:100%;" id="a1">
             	
@@ -153,6 +153,17 @@ h2.tisa1, h3.tisa1 {
 built-in safety features, our filling systems can be integrated easily into existing packaging machines for greater
 efficiency, speed and versatility</p>
  <p style="margin-top:15px;" class="btn-primary1 btn_pos"><!-- <span class="pos_abso" onclick="get_num(0)"></span> --><a href="pdf/Weigher-FFS-Final.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download catalogue<span class="icon-preventivo"> </span></a></p>
+                </div>
+
+
+                <div class="offset-by-one six columns" style="margin-bottom:20px; width:85%;" >
+                           <h3 style="padding-left:0px;">FFS</h3>
+
+                 <!-- <h3 style="padding-left:0px;">OML Series - open-mouth bagging systems</h3> -->
+<p>Vertical bagging systems essentially refer to a specific kind of vertical packaging machine also
+known as a vertical form fill seal machine. This particular piece of bagging machinery and equipment is a type of
+automatic packaging unit that is commonly used in the food packaging industry</p>
+ <p style="margin-top:15px;" class="btn-primary1 btn_pos"><!-- <span class="pos_abso" onclick="get_num(1)"></span> --><a href="pdf/FFS-DOC.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download catalogue<span class="icon-preventivo"> </span></a></p>
                 </div>
                 
                     
@@ -168,7 +179,7 @@ efficiency, speed and versatility</p>
 
 
             <!-- Second FFS -->
-              <div style="margin-top:0px;  border-top: 0px solid #ECECEC; float:left;padding: 0px 0px 24px 0px;">
+              <!-- <div style="margin-top:0px;  border-top: 0px solid #ECECEC; float:left;padding: 0px 0px 24px 0px;">
                 
                 
           <div  style="margin-top:0px;  border-top: 0px solid #ECECEC; float:left;padding:34px 0px 24px 0px;">
@@ -176,16 +187,16 @@ efficiency, speed and versatility</p>
           <div class="offset-by-one six columns" style="margin-bottom:20px; width:85%;" >
                            <h3 style="padding-left:0px;">FFS</h3>
 
-                 <!-- <h3 style="padding-left:0px;">OML Series - open-mouth bagging systems</h3> -->
+                 
 <p>Vertical bagging systems essentially refer to a specific kind of vertical packaging machine also
 known as a vertical form fill seal machine. This particular piece of bagging machinery and equipment is a type of
 automatic packaging unit that is commonly used in the food packaging industry</p>
- <p style="margin-top:15px;" class="btn-primary1 btn_pos"><!-- <span class="pos_abso" onclick="get_num(1)"></span> --><a href="pdf/FFS-DOC.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download catalogue<span class="icon-preventivo"> </span></a></p>
+ <p style="margin-top:15px;" class="btn-primary1 btn_pos"><a href="pdf/FFS-DOC.pdf" target="_blank" class="btn btn-large btn-primary btn_1">Download catalogue<span class="icon-preventivo"> </span></a></p>
                 </div>
                 
                
                 </div>  
-            </div>
+            </div> -->
         </div>
         
         </div><!-- END Project Container -->
@@ -242,7 +253,7 @@ automatic packaging unit that is commonly used in the food packaging industry</p
 	$("div.tabs").tabs("div#panes > div");
 	
 	 $("#a1a").click(function() {
-		    $("#a1b1,#a1c1,#a1d1,#a1e1").hide();
+		    $("#a1b1,#a1c1,#a1d1,#a1e1").show();
 		 $("#a1a1").show();
 		$("html, body").stop().animate({
 			
