@@ -69,7 +69,7 @@
     width: 206px;
 }
 #footer-container .container .one-third.column {
-    width: 376px;
+    width: 328px;
 }
 
 
