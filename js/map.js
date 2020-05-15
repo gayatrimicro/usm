@@ -104,7 +104,7 @@ function initialize() {
 				var companyImage = new google.maps.MarkerImage('../images/nudge_pin_2.png',
 					new google.maps.Size(50,61),
 					new google.maps.Point(0,0),
-					new google.maps.Point(28,58)
+					new google.maps.Point(28,55)
 				);
 
 				var companyShadow = new google.maps.MarkerImage('../images/nudge_pinShadow_2.png',
@@ -112,7 +112,7 @@ function initialize() {
 					new google.maps.Point(0,0),
 					new google.maps.Point(28,55));
 
-				var companyPos = new google.maps.LatLng(25.079759,55.153062);
+				var companyPos = new google.maps.LatLng(25.079999,55.152632);
 
 				var companyMarker = new google.maps.Marker({
 					position: companyPos,
