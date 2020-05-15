@@ -785,11 +785,11 @@
 {
 	position: absolute;
     top: 50px;
-    width: 305px;
+    width: 40rem;
     height: auto;
     z-index: 10;
     border-radius: 10px;
-    left: 21px;
+    left: -15rem;
     background-color: #1b1b1b;
     color: #fff;
     font-weight: 500;
@@ -891,20 +891,28 @@
 	float: right;
 	margin-top: 6px;
 }
+.half-column{
+	width: 49%;
+	display: inline-block;
+}
+
 .rig_sid
 {
 	right: 311px;
     top: -15px;
+    width: 19rem;
 }
 .rig_sid2
 {
 	 right: 311px;
     top: -12px;
+    width: 19rem;
 }
 .rig_sid3
 {
 	right: 311px;
     top: -12px;
+    width: 8rem;
 }
 .rig_sid4 {
     right: -225px;
@@ -917,6 +925,20 @@
 .rig_sid6 {
     right: 311px;
     top: -12px;
+    width: 11rem;
+}
+@media (max-width: 600px){
+	.half-column{
+		width: 100%;
+		display: inline-block;
+	}
+	.list_cat{
+		width: 94vw;
+		left: 0;
+	}
+	.rig_sid, .rig_sid2, .rig_sid3, .rig_sid4, .rig_sid5, .rig_sid6{
+		width: 100%;
+	}
 }
 /* The Modal Start (background) */
 .modal {
