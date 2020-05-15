@@ -7,16 +7,13 @@
                 </a>
             </div>
             <div id="nav-wrapper">
-            	
-
-                <ul id="nav">
+            	<ul id="nav">
                    <li class="list_li">
             <a href="#">Products</a> <i class="fa fa-angle-down" aria-hidden="true"></i>
-            <div class="list_cat" style="width: 40rem;">
+            <div class="list_cat">
                 <ul>
-                <div style="width: 49%;display: inline-block;">
                     <li class="lis_li_li"><a href="#">Bagging Systems</a> <i class="fa fa-angle-right" aria-hidden="true"></i>
-                        <div class="list_subcat rig_sid" style="width: 19rem;">
+                        <div class="list_subcat rig_sid">
                             <ul>
                                 <li><a href="http://spacegm.com/usm/products/bagging.php#a">OPEN MOUTH</a></li>
                                 <li><a href="http://spacegm.com/usm/products/bagging.php#b">AUTOMATIC BAGGING LINES</a></li>
@@ -29,7 +26,7 @@
                     </li>
                     <li><a href="http://spacegm.com/usm/products/transportable-bagging-system.php">TRANSPORATBLE BAGGING SYSTEMS</a></li>
                     <li class="lis_li_li"><a href="#">FFS (POUCH PACKING MACHINE)</a> <i class="fa fa-angle-right" aria-hidden="true"></i>
-                        <div class="list_subcat rig_sid3" style="width: 8rem;">
+                        <div class="list_subcat rig_sid3">
                             <ul>
                                 <li><a href="http://spacegm.com/usm/products/ffs.php">WEIGHERS</a></li>
                                 <li><a href="http://spacegm.com/usm/products/ffs.php">FFS</a></li>
@@ -39,7 +36,7 @@
                     <li><a href="http://spacegm.com/usm/products/secondary-bagging.php">SECONDARY BAGGING (BAG INBAG)</a></li>
                                                                               
                     <li class="lis_li_li"><a href="#">BAG CLOSING SYSTEM</a> <i class="fa fa-angle-right" aria-hidden="true"></i>
-                        <div class="list_subcat rig_sid2" style="width: 19rem;">
+                        <div class="list_subcat rig_sid2">
                             <ul>
                                 <li><a href="http://spacegm.com/usm/products/bag-closing.php">Bag Closing Machines</a></li>
                                 <li><a href="http://spacegm.com/usm/products/portable-bag-closing.php">Portable Bag Closing Machines</a></li>
@@ -47,7 +44,7 @@
                         </div>
                     </li>
                     <li class="lis_li_li"><a href="#">Sealers</a> <i class="fa fa-angle-right" aria-hidden="true"></i>
-                        <div class="list_subcat rig_sid6" style="width: 11rem;">
+                        <div class="list_subcat rig_sid6">
                             <ul>
                                 <li><a href="http://spacegm.com/usm/products/hot-air-sealer.php">Hot Air Sealers</a></li>
                                 <li><a href="http://spacegm.com/usm/products/band_sealer.php">Band Sealers</a></li>
@@ -58,11 +55,8 @@
                     <li><a href="http://spacegm.com/usm/products/stretch-wrapping.php">STRETCH WRAPPERS</a></li>
                     <li><a href="http://spacegm.com/usm/products/bag-making.php">BAG MAKING MACHINES</a></li>
                     <li><a href="http://spacegm.com/usm/products/geo-text.php">GEO TEXT SEWING</a></li>
-                </div>
-                <div style="width: 50%;display: inline-block;">
-
-                    <li><a href="http://spacegm.com/usm/products/carpet-sewing.php">CARPET SEWING</a></li>
-                   <li class="lis_li_li"><a href="#">CONVEYOR & ACCESSORIES</a> <i class="fa fa-angle-right" aria-hidden="true"></i>
+                    <li><a href="http://spacegm.com/usm/products/carpet-sewing.php">CARPET SEWING</a></li>                               
+                    <li class="lis_li_li"><a href="#">CONVEYOR & ACCESSORIES</a> <i class="fa fa-angle-right" aria-hidden="true"></i>
                         <div class="list_subcat rig_sid4">
                             <ul>
                                 <li><a href="http://spacegm.com/usm/products/conveyor.php">DRAG CHAIN CONVEYOR</a></li>
@@ -91,11 +85,7 @@
                     <li><a href="http://spacegm.com/usm/products/dust-collector.php">DUST COLLECTORS</a></li>
                     <li><a href="http://spacegm.com/usm/products/thread.php">THREAD</a></li>
                     <!-- <li><a href="#">FUMIGATION SHEET</a></li> -->
-                    <li><a href="http://spacegm.com/usm/products/manganese-rail.php">MANGANESE RAIL</a></li> 
-                </div>
-                
-                                                   
-                    
+                    <li><a href="http://spacegm.com/usm/products/manganese-rail.php">MANGANESE RAIL</a></li>
                 </ul>
             </div>
         </li>
