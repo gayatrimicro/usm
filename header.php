@@ -170,9 +170,10 @@ body {
 .goog-te-banner-frame.skiptranslate {
     display: none !important;
 }
-.goog-te-menu2-item div, .goog-te-menu2-item:link div, .goog-te-menu2-item:visited div, .goog-te-menu2-item:active div {
+.goog-te-menu2-item div, .goog-te-menu2-item div span, .goog-te-menu2 {
     background-color: #1b1b1b !important;
     color: #b5b5b5 !important;
+    font-family: "brandon-grotesque",sans-serif !important;
 }
 body {
     top: 0px !important;
