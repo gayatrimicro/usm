@@ -239,7 +239,7 @@
 	#nav-wrapper { float: right; }
 	
 	#nav { padding: 50px 0; display: inline-block; }
-	#nav li { float: left; padding: 10px 22px; }
+	#nav li { float: left; padding: 10px 10px; }
 	#nav a { 
 		font-family: "brandon-grotesque",sans-serif;
 		font-style: normal;
@@ -733,7 +733,7 @@
 	.wrapper { padding: 0px 16px; }
 	#nav-wrapper { float: left; clear: both; }
 	#nav { padding: 0px; }
-	#nav li { padding: 6px 28px 6px 0; clear: both;}
+	#nav li { padding: 0px 28px 6px 0; clear: both;}
 	#logo { margin-bottom: 0px; }
 	.image-holder { height: 160px; }
 		#csc { padding-top: 24px; padding-bottom: 24px; width: 266px; }
