@@ -1220,5 +1220,13 @@
     text-indent: 1px;
     text-overflow: '';
 }
+	
+.goog-te-banner-frame{visibility:hidden !important;}
+#home{top:0px !important;}
    
    /*------------------------------*/
+   .wid100
+   {
+   	width: 100%;
+   	margin-bottom: 50px;
+   }

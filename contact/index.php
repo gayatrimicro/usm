@@ -60,7 +60,7 @@
     <div class="container">
       <div class="clear"></div>
       <div id="contact-section">
-        <div class="eight columns">
+        <div class="wid100">
           <h2 class="tisa">Our Office</h2>
           <p class="dis_inblk"><b>UNION SPECIAL MEDWAY JLT </b><br/>Jumeirah Bay Tower, Plot No. X-2, Office 207<br>
                 Jumeirah Lake Tower, P.O. Box- 120964<br>
