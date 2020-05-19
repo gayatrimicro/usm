@@ -60,22 +60,24 @@
     <div class="container">
       <div class="clear"></div>
       <div id="contact-section">
-        <div class="four columns">
+        <div class="eight columns">
           <h2 class="tisa">Our Office</h2>
-          <p><b>UNION SPECIAL MEDWAY JLT </b><br/>Jumeirah Bay Tower, Plot No. X-2, Office 207<br>
+          <p class="dis_inblk"><b>UNION SPECIAL MEDWAY JLT </b><br/>Jumeirah Bay Tower, Plot No. X-2, Office 207<br>
                 Jumeirah Lake Tower, P.O. Box- 120964<br>
                 Dubai, United Arab Emirates<br>Tel.: 00971 4 4531979<br>
-                Fax: 00971 4 4531993<br>
+                Fax: 00971 4 4531993<br><br>
+                <b>For More Enquiry Email us :</b><br>
                 <a href="mailto:sales@unionspecialmedway.com">sales@unionspecialmedway.com</a></p>
        
                 
-                 <p><b style="text-transform:uppercase;">Indonesia Branch</b><br/>Union Special Medway<br>
-                Jakarta, Indonesia.<br/>Tel.: +62 87775027507<br>
+                 <p class="dis_inblk marl60"><b style="text-transform:uppercase;">Indonesia Branch</b><br/>Union Special Medway<br>
+                Jakarta, Indonesia.<br/>Tel.: +62 87775027507<br><br>
+                <b>For More Enquiry Email us :</b><br>
                 <a href="mailto:indo@unionspecialmedway.com">indo@unionspecialmedway.com</a></p>
                 
                 
         </div>
-        <div class="eight columns">
+        <!-- <div class="eight columns">
           <div style="width:90%; height:400px; float:left;">
           
           <div class="contact">
@@ -130,7 +132,7 @@
             
             
           </div>
-        </div>
+        </div> -->
         <div class="eight columns" style="width:92%;">
           <div id="map_canvas"></div>
         </div>
@@ -376,6 +378,15 @@ function show_snack() {
   setTimeout(function(){ x.className = x.className.replace("show", ""); }, 3000);
 }
 </script>
+<!-- language translator js start -->
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({includedLanguages: 'en,es,yo,fr,ru,ja,uk,af,sw,hy,az,be,kk,ky,mo,tg,uz,ar,vi'}, 'google_translate_element');
+}
+</script>
+
+      <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+<!-- language translator js end -->
 </body>
 </html>
 <!-- Localized -->

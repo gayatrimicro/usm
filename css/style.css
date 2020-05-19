@@ -239,7 +239,7 @@
 	#nav-wrapper { float: right; }
 	
 	#nav { padding: 50px 0; display: inline-block; }
-	#nav li { float: left; padding: 10px 10px; }
+	#nav li { float: left; padding: 10px 8px; }
 	#nav a { 
 		font-family: "brandon-grotesque",sans-serif;
 		font-style: normal;
@@ -1099,6 +1099,9 @@
 
 @media(min-width: 320px) and (max-width: 767px)
 {
+	.marl60 {
+    margin-left: 0px !important;
+}
 .bx1
 {
 	width: 100%;
@@ -1171,3 +1174,51 @@
 }
 
 /*-------------------------*/
+.dis_inblk
+{
+	display: inline-block;
+	vertical-align: top;
+}
+.marl60
+{
+	margin-left: 60px;
+}
+
+/*---------------*/
+
+.list_li font
+{
+  font-size: 12px;
+}
+
+.goog-logo-link {
+   display:none !important;
+} 
+
+.goog-te-gadget{
+   color: transparent !important;
+}
+.goog-te-combo
+{
+    border-radius: 4px;
+    background-color: #1c1c1c;
+    color: #d6d6d6;
+    border: none;
+    padding: 6px 20px;
+    outline: none;
+    margin-top: 0px !important;
+    font-family: "brandon-grotesque",sans-serif !important;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    height: auto;
+}
+.goog-te-combo{
+     -webkit-appearance: none;
+    -moz-appearance: none;
+    text-indent: 1px;
+    text-overflow: '';
+}
+   
+   /*------------------------------*/
