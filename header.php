@@ -3,7 +3,7 @@
         <header>
             <div id="logo-holder">
                 <a id="logo" href="/">
-                     <img src="/img/USM.jpg"  >
+                     <img src="http://unionspecialmedway.com/img/USM.jpg"  >
                 </a>
             </div>
             <div id="nav-wrapper">
