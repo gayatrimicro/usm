@@ -298,10 +298,9 @@
   <!-- language translator js start -->
 <script type="text/javascript">
 function googleTranslateElementInit() {
-  new google.translate.TranslateElement({includedLanguages: 'en,es,yo,fr,ru,ja,uk,af,sw,hy,az,be,kk,ky,mo,tg,uz,ar,vi'}, 'google_translate_element');
+  new google.translate.TranslateElement({includedLanguages: 'en,es,yo,fr,ru,ja,uk,af,sw,hy,az,be,kk,ky,mo,tg,uz,ar,vi,id,th,my,bn'}, 'google_translate_element');
 }
 </script>
-
       <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 <!-- language translator js end -->
 </body>

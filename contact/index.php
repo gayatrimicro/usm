@@ -62,18 +62,13 @@
       <div id="contact-section">
         <div class="wid100">
           <h2 class="tisa">Our Office</h2>
-          <p class="dis_inblk"><b>UNION SPECIAL MEDWAY JLT </b><br/>Jumeirah Bay Tower, Plot No. X-2, Office 207<br>
+          <p class="dis_inblk"><b class="mar_b15">UNION SPECIAL MEDWAY JLT </b><br/>Jumeirah Bay Tower, Plot No. X-2, Office 207<br>
                 Jumeirah Lake Tower, P.O. Box- 120964<br>
-                Dubai, United Arab Emirates<br>Tel.: 00971 4 4531979<br>
+                Dubai, United Arab Emirates<br><br><a href="tel:(009)7144531979">Tel: 00971 4 4531979</a><br>
                 Fax: 00971 4 4531993<br><br>
-                <b>For More Enquiry Email us :</b><br>
-                <a href="mailto:sales@unionspecialmedway.com">sales@unionspecialmedway.com</a></p>
+                <b class="">Email us: </b>
+                <a href="mailto:sales@unionspecialmedway.com" class="fon18">sales@unionspecialmedway.com</a></p>
        
-                
-                 <p class="dis_inblk marl60"><b style="text-transform:uppercase;">Indonesia Branch</b><br/>Union Special Medway<br>
-                Jakarta, Indonesia.<br/>Tel.: +62 87775027507<br><br>
-                <b>For More Enquiry Email us :</b><br>
-                <a href="mailto:indo@unionspecialmedway.com">indo@unionspecialmedway.com</a></p>
                 
                 
         </div>
@@ -133,7 +128,7 @@
             
           </div>
         </div> -->
-        <div class="eight columns" style="width:92%;">
+        <div class="eight columns" style="width:100%;">
           <div id="map_canvas"></div>
         </div>
       </div>
@@ -381,7 +376,7 @@ function show_snack() {
 <!-- language translator js start -->
 <script type="text/javascript">
 function googleTranslateElementInit() {
-  new google.translate.TranslateElement({includedLanguages: 'en,es,yo,fr,ru,ja,uk,af,sw,hy,az,be,kk,ky,mo,tg,uz,ar,vi'}, 'google_translate_element');
+  new google.translate.TranslateElement({includedLanguages: 'en,es,yo,fr,ru,ja,uk,af,sw,hy,az,be,kk,ky,mo,tg,uz,ar,vi,id,th,my,bn'}, 'google_translate_element');
 }
 </script>
 

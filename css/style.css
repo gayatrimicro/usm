@@ -496,7 +496,7 @@
 	
 	#profiles { padding-top: 48px; padding-bottom: 24px; clear: both; overflow: hidden; border-bottom: 1px solid #ececec; }
 	
-	#contact-section { padding-top: 48px; }
+	#contact-section { padding-top: 48px;text-align: center; }
 	
 	.bio { clear: both; float: left; }
 		.bio img { float: left; margin-right: 36px; }
@@ -1178,6 +1178,7 @@
 {
 	display: inline-block;
 	vertical-align: top;
+	font-size: 18px;
 }
 .marl60
 {
@@ -1229,4 +1230,14 @@
    {
    	width: 100%;
    	margin-bottom: 50px;
+   }
+   .mar_b15
+   {
+    margin-bottom: 15px;
+	display: inline-block;
+   }
+   .fon18
+   {
+   	font-size: 20px;
+   	    font-weight: 600;
    }
