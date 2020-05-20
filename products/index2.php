@@ -256,7 +256,7 @@
                     <div class="one-third column">
                         <h3>Contact</h3>
                         <div class="info-wrap contact">
-                            <p>Tel.: 00971 4 4531979<br>
+                            <p><a href="tel:(009)7144531979">Tel: 00971 4 4531979</a><br>
                             Fax: 00971 4 4531993<br>
                             <a href="mailto:sales@unionspecialmedway.com">sales@unionspecialmedway.com</a></p>
                         </div>
