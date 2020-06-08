@@ -102,7 +102,7 @@
                     <li><a href="/system_integration.php">System Integration</a></li>
                     <li><a href="/spares-services.php">Spares & Service</a></li>
                     <li><a href="/contact">Contact</a></li>
-                    <li><div id="google_translate_element"></div></li>
+                    <li class="goog-btn-pos"><div id="google_translate_element"></div></li>
                     
                 </ul>
             </div>

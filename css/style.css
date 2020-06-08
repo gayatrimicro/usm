@@ -1202,10 +1202,10 @@
 .goog-te-combo
 {
     border-radius: 4px;
-    background-color: #1c1c1c;
-    color: #d6d6d6;
-    border: none;
-    padding: 6px 20px;
+    background-color: transparent;
+    color: #777;
+    border: thin solid #777;
+    padding: 6px 4px 6px 25px;
     outline: none;
     margin-top: 0px !important;
     font-family: "brandon-grotesque",sans-serif !important;
@@ -1221,7 +1221,12 @@
     text-indent: 1px;
     text-overflow: '';
 }
+@media (min-width: 800px){
+	.goog-btn-pos{
+		margin: -40px -60px 0px 0px !important;
+	}
 	
+}	
 .goog-te-banner-frame{visibility:hidden !important;}
 #home{top:0px !important;}
    
